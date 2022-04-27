@@ -1,8 +1,9 @@
-state = {
-	id = 785
-	name = "STATE_785"
 
-	history = {
+state={
+	id=785
+	name="STATE_785"
+
+	history={
 		owner = FRA
 		add_claim_by = NFA
 		add_core_of = FRA
@@ -13,34 +14,45 @@ state = {
 			arms_factory = 1
 			9472 = {
 				bunker = 4
+
 			}
 			6545 = {
 				bunker = 1
+
 			}
 			11488 = {
 				bunker = 1
+
 			}
 			3546 = {
 				bunker = 2
+
 			}
 			3560 = {
 				bunker = 3
+
 			}
 			5291 = {
 				bunker = 4
+
 			}
 			11642 = {
 				bunker = 4
+
 			}
+
 		}
 		victory_points = {
-			5291 5
+			5291 5 
 		}
+
 	}
 
-	provinces = {
-		3546 3560 5291 6545 9472 11488 11642
+	provinces={
+		3560 5291 
 	}
-	manpower = 711632
-	state_category = six
+	manpower=711632
+	buildings_max_level_factor=1.000
+	state_category=six
+	local_supplies=0.000
 }

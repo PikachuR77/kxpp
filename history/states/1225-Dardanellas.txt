@@ -1,26 +1,29 @@
-state = {
-	id = 1225
-	name = "STATE_1225"
-	manpower = 25326
 
+state={
+	id=1225
+	name="STATE_1225"
 
-	state_category = four
-
-
-	history = {
+	history={
 		owner = OTT
 		buildings = {
 			infrastructure = 2
 			849 = {
 				coastal_bunker = 4
 				bunker = 2
+
 			}
-		} 
-		add_core_of = OTT 
-        add_claim_by = GRE
+
+		}
+		add_core_of = OTT
+		add_claim_by = GRE
+
 	}
 
-	provinces = {
-		849 6864 9887
+	provinces={
+		6864 9887 
 	}
+	manpower=25326
+	buildings_max_level_factor=1.000
+	state_category=four
+	local_supplies=0.000
 }

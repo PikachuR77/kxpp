@@ -1,0 +1,18 @@
+
+state={
+	id=1258
+	name="STATE_1258"
+
+	history={
+		owner = OTT
+		add_core_of = OTT
+
+	}
+
+	provinces={
+		652 6976 14656 14657 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

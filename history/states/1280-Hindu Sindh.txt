@@ -1,0 +1,19 @@
+state={
+	id=1280
+	name="STATE_1280"
+	
+	history = {
+		owner = DEH
+		add_core_of = DEH
+		add_claim_by = BHC
+		add_claim_by = PRF
+		
+	}
+	
+	provinces={
+		1147 1971 1980 4003 4110 4382 7084 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

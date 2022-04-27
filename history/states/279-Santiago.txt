@@ -1,11 +1,12 @@
-state = {
-	id = 279
-	name = "STATE_279"
-	resources = {
-		steel = 24
+
+state={
+	id=279
+	name="STATE_279"
+	resources={
+		steel=24.000
 	}
 
-	history = {
+	history={
 		owner = CHL
 		buildings = {
 			infrastructure = 3
@@ -15,29 +16,35 @@ state = {
 			air_base = 3
 			8222 = {
 				naval_base = 5
+
 			}
 			650 = {
 				bunker = 1
+
 			}
+
 		}
 		add_core_of = CHL
 		victory_points = {
-			650 25
+			650 25 
 		}
 		victory_points = {
-			13499 10
+			13499 10 
 		}
 		victory_points = {
-			8229 1
+			8229 1 
 		}
 		victory_points = {
-			12984 3
+			12984 3 
 		}
+
 	}
 
-	provinces = {
-		650 5191 8222 8229 8251 12984 13235 13499
+	provinces={
+		650 5121 5169 5191 8222 8229 8251 12920 12954 12984 13235 13498 13499 
 	}
-	manpower = 3146806
-	state_category = six
+	manpower=3146806
+	buildings_max_level_factor=1.000
+	state_category=six
+	local_supplies=0.000
 }

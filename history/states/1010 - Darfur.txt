@@ -1,23 +1,28 @@
-state = {
-	id = 1010
-	name = "STATE_1010"
-	manpower = 1231431
 
-	state_category = one
-	resources = {
-		steel = 16
-		chromium = 8
+state={
+	id=1010
+	name="STATE_1010"
+	resources={
+		steel=16.000
+		chromium=8.000
 	}
-	history = {
+
+	history={
 		owner = EGY
 		add_core_of = EGY
 		add_core_of = SUD
 		buildings = {
 			infrastructure = 1
+
 		}
+
 	}
 
-	provinces = {
-		5060 10739 8084 2016 10827 8052 1960
+	provinces={
+		1960 2016 4961 5060 5069 8052 8084 10739 10827 10851 12744 
 	}
+	manpower=1231431
+	buildings_max_level_factor=1.000
+	state_category=one
+	local_supplies=0.000
 }

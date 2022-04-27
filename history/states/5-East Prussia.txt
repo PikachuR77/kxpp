@@ -1,10 +1,9 @@
-state = {
-	id = 5
-	name = "STATE_5"
-	manpower = 1083968
-	state_category = six
 
-	history = {
+state={
+	id=5
+	name="STATE_5"
+
+	history={
 		owner = GER
 		add_core_of = GER
 		buildings = {
@@ -16,14 +15,21 @@ state = {
 			6332 = {
 				bunker = 1
 				naval_base = 3
+
 			}
+
 		}
 		victory_points = {
-			6332 15
+			6332 15 
 		}
+
 	}
 
-	provinces = {
-		266 395 6332 6402 9398 11245 11265 13750
+	provinces={
+		266 395 6332 6402 9398 11245 11265 
 	}
+	manpower=1083968
+	buildings_max_level_factor=1.000
+	state_category=six
+	local_supplies=0.000
 }

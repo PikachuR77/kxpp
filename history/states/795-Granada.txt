@@ -8,15 +8,19 @@ state={
 		add_core_of = SPR
 		buildings = {
 			infrastructure = 3
+
 		}
 		victory_points = {
-			875 3
+			875 3 
 		}
+
 	}
 
 	provinces={
-		875 950 1090 1192 3871 4095 6744 7198 10111 12083
+		875 879 950 1090 1192 3810 3871 4095 6744 7198 10111 12083 
 	}
 	manpower=551181
+	buildings_max_level_factor=1.000
 	state_category=four
+	local_supplies=0.000
 }

@@ -6,6 +6,12 @@ set_technology = {
 	### Infantry ###
 	infantry_weapons = 1
 	basic_train = 1
+	tech_support = 1
+	tech_mountaineers = 1
+	tech_engineers = 1
+	gw_artillery = 1
+	### Air ###
+	early_fighter = 1
 }
 
 set_politics = {
@@ -14,6 +20,16 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+GER = {
+	add_opinion_modifier = { target = CEY modifier = colonial_master }
+	set_autonomy = {
+		target = CEY
+		autonomy_state = kr_default_puppet
+	}
+}
+
+GER_add_to_mitteleuropa = yes
 
 set_popularities = {
 	totalist = 0
@@ -33,6 +49,8 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = authoritarian_democrat_subtype
 }
+
+set_cosmetic_tag = CEY_GER
 
 ### Admirals ###
 

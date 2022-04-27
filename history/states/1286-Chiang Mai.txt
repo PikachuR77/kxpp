@@ -1,0 +1,17 @@
+state={
+	id=1286
+	name="STATE_1286"
+	
+	history={
+		owner = SIA
+		add_core_of = SIA
+		
+	}
+	
+	provinces={
+		1253 1488 1990 7675 10371 14616 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

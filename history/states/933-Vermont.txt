@@ -1,24 +1,27 @@
-state = {
-	id = 933
-	name = "STATE_933"
 
-	history = {
+state={
+	id=933
+	name="STATE_933"
+
+	history={
 		owner = USA
 		add_core_of = USA
-
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
+
 		}
 		victory_points = {
-			4445 1
+			4445 1 
 		}
+
 	}
 
-	provinces = {
-		4445 7629 9675 13158
+	provinces={
+		4445 7629 9675 
 	}
-
-	manpower = 357000
-	state_category = three
+	manpower=357000
+	buildings_max_level_factor=1.000
+	state_category=three
+	local_supplies=0.000
 }

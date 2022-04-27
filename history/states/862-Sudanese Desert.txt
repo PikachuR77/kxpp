@@ -15,9 +15,9 @@ state={
 	}
 
 	provinces={
-		7987
+		4068 
 	}
 	manpower=6539
-	impassable = yes
 	state_category=wasteland
+	impassable = yes
 }

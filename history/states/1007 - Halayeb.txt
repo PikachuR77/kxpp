@@ -1,10 +1,12 @@
-state = {
-	id = 1007
-	name = "STATE_1007"
-	resources = {
-		chromium = 25
+
+state={
+	id=1007
+	name="STATE_1007"
+	resources={
+		chromium=25.000
 	}
-	history = {
+
+	history={
 		owner = EGY
 		add_core_of = EGY
 		add_core_of = SUD
@@ -14,16 +16,21 @@ state = {
 			air_base = 1
 			12725 = {
 				naval_base = 1
+
 			}
+
 		}
 		victory_points = {
-			12725 1
+			12725 1 
 		}
+
 	}
 
-	provinces = {
-		1977 12725 10902 7989 2046 2003
+	provinces={
+		1977 2003 2046 4138 4963 7989 8105 10745 10902 12725 12796 12836 
 	}
-	manpower = 283507
-	state_category = one
+	manpower=283507
+	buildings_max_level_factor=1.000
+	state_category=one
+	local_supplies=0.000
 }

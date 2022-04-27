@@ -1,24 +1,28 @@
-state = {
-	id = 1103
-	name = "STATE_1103"
-	manpower = 200000
 
-	state_category = three
+state={
+	id=1103
+	name="STATE_1103"
 
-	history = {
+	history={
 		owner = AUS
 		add_core_of = AUS
 		add_core_of = SLO
 		victory_points = {
-			9627 10
+			9627 10 
 		}
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
+
 		}
+
 	}
 
-	provinces = {
-		9627
+	provinces={
+		3631 9627 
 	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=three
+	local_supplies=0.000
 }

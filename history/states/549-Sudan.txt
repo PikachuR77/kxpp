@@ -1,22 +1,27 @@
-state = {
-	id = 549
-	name = "STATE_549"
-	manpower = 2462862
 
-	state_category = one
-	resources = {
-		oil = 12
+state={
+	id=549
+	name="STATE_549"
+	resources={
+		oil=12.000
 	}
-	history = {
+
+	history={
 		owner = EGY
 		add_core_of = EGY
 		add_core_of = SUD
 		buildings = {
 			infrastructure = 2
+
 		}
+
 	}
 
-	provinces = {
-		1953 2096 4033 7996 10764 10851 10857 10859 10877 10908 12744 12800 12887
+	provinces={
+		1080 1953 2096 4033 4910 7156 7996 10097 10764 10857 10859 10877 10908 12800 12889 
 	}
+	manpower=2462862
+	buildings_max_level_factor=1.000
+	state_category=one
+	local_supplies=0.000
 }

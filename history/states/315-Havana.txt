@@ -1,14 +1,12 @@
-state = {
-	id = 315
-	name = "STATE_315"
-	manpower = 2353550
-	resources = {
-		steel = 4
+
+state={
+	id=315
+	name="STATE_315"
+	resources={
+		steel=4.000
 	}
 
-	state_category = six
-
-	history = {
+	history={
 		owner = CUB
 		buildings = {
 			infrastructure = 2
@@ -18,14 +16,22 @@ state = {
 			dockyard = 1
 			7622 = {
 				naval_base = 3
+
 			}
+
 		}
 		add_core_of = CUB
 		victory_points = {
-			7622 15
+			7622 15 
 		}
+
 	}
-	provinces = {
-		4600 7451 7622 10374 10498
+
+	provinces={
+		4600 7451 7622 10374 10498 14645 14646 14647 
 	}
+	manpower=2353550
+	buildings_max_level_factor=1.000
+	state_category=six
+	local_supplies=0.000
 }

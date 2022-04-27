@@ -1,14 +1,12 @@
-state = {
-	id = 230
-	name = "STATE_230"
-	manpower = 782532
 
-	state_category = four
+state={
+	id=230
+	name="STATE_230"
 
-	history = {
+	history={
 		owner = ARM
 		victory_points = {
-			12320 10
+			12320 10 
 		}
 		buildings = {
 			infrastructure = 2
@@ -17,12 +15,19 @@ state = {
 			air_base = 2
 			12320 = {
 				bunker = 1
+
 			}
+
 		}
 		add_core_of = ARM
+
 	}
 
-	provinces = {
-		3564 12320 12441 13123 13724
+	provinces={
+		3564 12320 12441 13724 
 	}
+	manpower=782532
+	buildings_max_level_factor=1.000
+	state_category=four
+	local_supplies=0.000
 }

@@ -1,23 +1,27 @@
-state = {
-	id = 244
-	name = "STATE_244" # Volkhov
-	manpower = 195325
 
-	state_category = two
+state={
+	id=244
+	name="STATE_244"
 
-	history = {
+	history={
 		owner = RUS
 		buildings = {
 			infrastructure = 3
+
 		}
 		add_core_of = RUS
 		add_claim_by = TRM
 		victory_points = {
-			6095 1
+			6095 1 
 		}
+
 	}
 
-	provinces = {
-		70 3072 3110 6035 6095 9164 9197 11174
+	provinces={
+		70 79 3072 3110 6035 6095 9164 9197 11068 11174 
 	}
+	manpower=195325
+	buildings_max_level_factor=1.000
+	state_category=two
+	local_supplies=0.000
 }

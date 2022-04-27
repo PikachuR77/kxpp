@@ -1,3 +1,4 @@
+
 state={
 	id=91
 	name="STATE_91"
@@ -5,7 +6,10 @@ state={
 	history={
 		owner = GAL
 		victory_points = {
-			11479 15
+			11479 15 
+		}
+		victory_points = {
+			9454 2 
 		}
 		buildings = {
 			infrastructure = 2
@@ -22,5 +26,7 @@ state={
 		11479 
 	}
 	manpower=2308350
+	buildings_max_level_factor=1.000
 	state_category=six
+	local_supplies=0.000
 }

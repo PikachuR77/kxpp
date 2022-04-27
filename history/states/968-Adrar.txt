@@ -1,22 +1,26 @@
-state = {
-	id = 968
-	name = "STATE_968"
+state={ #Actually Pirin =O
+	id=968
+	name="STATE_968"
 
-	history = {
-		owner = NFA
-		add_claim_by = NFA
-		add_core_of = MRT
-		buildings = {
-			infrastructure = 1
+	history={
+		owner = BUL
+		add_core_of = BUL
+		victory_points = {
+			6923 5 
 		}
-		start_resistance = yes
-		set_resistance = 13
-		set_compliance = 9
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+
+		}
+
 	}
 
-	provinces = {
-		8035 10779 10814
+	provinces={
+		6857 9818 
 	}
-	manpower = 53100
-	state_category = wasteland
+	manpower=81500
+	buildings_max_level_factor=1.000
+	state_category=five
+	local_supplies=0.000
 }

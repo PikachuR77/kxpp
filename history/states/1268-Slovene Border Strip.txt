@@ -1,0 +1,18 @@
+
+state={
+	id=1268
+	name="STATE_1268"
+	
+	history={
+		owner = AUS
+		add_core_of = AUS
+		
+	}
+	
+	provinces={
+		665 11612 13210 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

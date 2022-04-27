@@ -1,21 +1,18 @@
-state = {
-	id = 189
-	name = "STATE_189"
-	manpower = 697100
 
-	state_category = three
-
-	resources = {
-		steel = 3
+state={
+	id=189
+	name="STATE_189"
+	resources={
+		steel=3.000
 	}
 
-	history = {
+	history={
 		owner = LIT
 		victory_points = {
-			6376 1
+			6376 1 
 		}
 		victory_points = {
-			6314 1
+			6314 1 
 		}
 		buildings = {
 			infrastructure = 3
@@ -23,12 +20,19 @@ state = {
 			arms_factory = 1
 			6314 = {
 				naval_base = 1
+
 			}
+
 		}
 		add_core_of = LIT
+
 	}
 
-	provinces = {
-		530 3337 3354 6229 6314 6360 6376 9483 9499 9731
+	provinces={
+		530 3337 3354 6229 6314 6360 6376 9483 9499 9731 
 	}
+	manpower=697100
+	buildings_max_level_factor=1.000
+	state_category=three
+	local_supplies=0.000
 }

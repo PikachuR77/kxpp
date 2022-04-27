@@ -1,15 +1,15 @@
-state = {
-	id = 2
-	name = "STATE_2" # Latium
-	manpower = 2326229
 
-	state_category = nine
+state={
+	id=2
+	name="STATE_2"
 
-	history = {
+	history={
 		owner = ITA
 		add_core_of = ITA
 		add_claim_by = SRI
-		victory_points = { 9904 40 }
+		victory_points = {
+			9904 40 
+		}
 		buildings = {
 			infrastructure = 4
 			air_base = 5
@@ -18,15 +18,23 @@ state = {
 			industrial_complex = 2
 			11751 = {
 				naval_base = 5
+
 			}
 			9904 = {
 				bunker = 2
 				coastal_bunker = 1
+
 			}
+
 		}
+
 	}
 
-	provinces = {
-		9904 11751
+	provinces={
+		9904 11751 14668 
 	}
+	manpower=2326229
+	buildings_max_level_factor=1.000
+	state_category=nine
+	local_supplies=0.000
 }

@@ -1,19 +1,14 @@
-state = {
-	id = 1098
-	name = "STATE_1098"
-	manpower = 120000
 
-	state_category = three
+state={
+	id=1098
+	name="STATE_1098"
 
-	history = {
+	history={
 		owner = CRO
 		add_core_of = CRO
 		victory_points = {
-			6889 5
+			6889 5 
 		}
-		#victory_points = { #Sinj
-		#	11816 3
-		#}
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -21,11 +16,18 @@ state = {
 			6889 = {
 				naval_base = 4
 				bunker = 3
+
 			}
+
 		}
+
 	}
 
-	provinces = {
-		3868 6889 11816
+	provinces={
+		3868 6889 11816 
 	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=three
+	local_supplies=0.000
 }

@@ -1,28 +1,31 @@
-state = {
-	id = 582
-	name = "STATE_582" # Magnitogorsk
-	manpower = 1044991
 
-	state_category = three
-
-	resources = {
-		steel = 72
-		oil = 12
+state={
+	id=582
+	name="STATE_582"
+	resources={
+		steel=72.000
+		oil=12.000
 	}
 
-	history = {
+	history={
 		owner = RUS
 		buildings = {
 			infrastructure = 2
+
 		}
 		add_core_of = RUS
 		add_claim_by = TRM
 		victory_points = {
-			4261 3
+			4261 3 
 		}
+
 	}
 
-	provinces = {
-		4215 4261 7281 10224 
+	provinces={
+		4215 4411 7281 7328 7401 10196 10224 10256 
 	}
+	manpower=1044991
+	buildings_max_level_factor=1.000
+	state_category=three
+	local_supplies=0.000
 }

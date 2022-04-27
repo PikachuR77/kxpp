@@ -1,0 +1,24 @@
+
+state={
+	id=1247
+	name="STATE_1247"
+
+	history={
+		owner = PAN
+		add_core_of = PAN
+		add_core_of = COS
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		13684 14625 14627 
+	}
+	manpower=54043
+	buildings_max_level_factor=1.000
+	state_category=zero
+	local_supplies=0.000
+}

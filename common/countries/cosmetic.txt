@@ -2428,3 +2428,9 @@ LURK = {
 	color = rgb { 34 68 138 }
 	color_ui = rgb { 34 68 138 }
 }
+
+### PP ###
+CEY_GER = {
+	color = rgb { 110 35 35 }
+	color_ui = rgb { 110 35 35 }
+}

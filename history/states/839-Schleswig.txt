@@ -1,18 +1,23 @@
-state = {
-	id = 839
-	name = "STATE_839" #Schleswig
 
-	history = {
+state={
+	id=839
+	name="STATE_839"
+
+	history={
 		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
+
 		}
+
 	}
 
-	provinces = {
-		317 3231
+	provinces={
+		317 3231 
 	}
-	manpower = 49305
-	state_category = two
+	manpower=49305
+	buildings_max_level_factor=1.000
+	state_category=two
+	local_supplies=0.000
 }

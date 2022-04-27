@@ -1,20 +1,26 @@
-state = {
-	id = 969
-	name = "STATE_969"
-	resources = {
-		steel = 12
+
+state={
+	id=969
+	name="STATE_969"
+	resources={
+		steel=12.000
 	}
-	history = {
+
+	history={
 		owner = KEN
 		add_claim_by = KEN
 		buildings = {
 			infrastructure = 2
+
 		}
+
 	}
 
-	provinces = {
-		5160 10860 11145 13135
+	provinces={
+		5160 10860 11145 
 	}
-	manpower = 1893000
-	state_category = two
+	manpower=1893000
+	buildings_max_level_factor=1.000
+	state_category=two
+	local_supplies=0.000
 }

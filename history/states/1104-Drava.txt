@@ -1,24 +1,28 @@
-state = {
-	id = 1104
-	name = "STATE_1104"
-	manpower = 27000
 
-	state_category = one
+state={
+	id=1104
+	name="STATE_1104"
 
-	history = {
+	history={
 		owner = AUS
 		add_core_of = AUS
 		add_core_of = SLO
 		buildings = {
 			infrastructure = 1
 			air_base = 1
+
 		}
-		victory_points = { #Marburg an der Drau
-			596 3
+		victory_points = {
+			596 3 
 		}
+
 	}
 
-	provinces = {
-		596
+	provinces={
+		596 
 	}
+	manpower=27000
+	buildings_max_level_factor=1.000
+	state_category=one
+	local_supplies=0.000
 }

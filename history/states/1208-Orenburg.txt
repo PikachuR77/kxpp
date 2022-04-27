@@ -1,28 +1,30 @@
-state = {
-	id = 1208
-	name = "STATE_1208"
-	manpower = 171726
 
+state={
+	id=1208
+	name="STATE_1208"
 
-	state_category = five
-
-
-	history = {
+	history={
 		owner = ALO
 		buildings = {
 			infrastructure = 2
-		} 
+
+		}
 		add_core_of = RUS
 		add_claim_by = TRM
 		add_claim_by = ALO
 		victory_points = {
-			12128 4
+			12128 4 
 		}
 		set_resistance = 0
 		set_compliance = 75
+
 	}
 
-	provinces = {
-		3563 4322 1254 12128 1210 9420 12298
+	provinces={
+		1210 9420 12128 12298 
 	}
+	manpower=171726
+	buildings_max_level_factor=1.000
+	state_category=five
+	local_supplies=0.000
 }

@@ -1,26 +1,31 @@
-state = {
-	id = 651
-	name = "STATE_651" # Ufa
-	manpower = 1586939
 
-	state_category = five
-	resources = {
-		steel = 14
+state={
+	id=651
+	name="STATE_651"
+	resources={
+		steel=14.000
 	}
-	history = {
+
+	history={
 		owner = RUS
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
+
 		}
 		victory_points = {
-			1278 3
+			1278 3 
 		}
 		add_core_of = RUS
 		add_claim_by = TRM
+
 	}
 
-	provinces = {
-		6246 7431 7416 6285 291 7444 1278 12130 1258 10226
+	provinces={
+		291 1258 1278 6246 6285 7416 7431 7444 10226 12130 
 	}
+	manpower=1586939
+	buildings_max_level_factor=1.000
+	state_category=five
+	local_supplies=0.000
 }

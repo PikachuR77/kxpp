@@ -1,14 +1,12 @@
-state = {
-	id = 167
-	name = "STATE_167"
-	manpower = 1979294
 
-	state_category = five
+state={
+	id=167
+	name="STATE_167"
 
-	history = {
+	history={
 		owner = SPR
 		victory_points = {
-			6906 15
+			6906 15 
 		}
 		buildings = {
 			infrastructure = 3
@@ -17,16 +15,24 @@ state = {
 			air_base = 3
 			6906 = {
 				naval_base = 3
+
 			}
 			962 = {
 				naval_base = 2
+
 			}
+
 		}
 		add_core_of = SPR
 		add_core_of = CAT
+
 	}
 
-	provinces = {
-		962 3799 3873 4098 6817 6856 6906 6959 9889 9896
+	provinces={
+		962 3799 3873 4098 6817 6856 6906 6959 9889 9896 
 	}
+	manpower=1979294
+	buildings_max_level_factor=1.000
+	state_category=five
+	local_supplies=0.000
 }

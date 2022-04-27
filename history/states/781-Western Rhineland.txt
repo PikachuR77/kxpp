@@ -1,18 +1,19 @@
-state = {
-	id = 781
-	name = "STATE_781"
-	resources = {
-		steel = 14
+
+state={
+	id=781
+	name="STATE_781"
+	resources={
+		steel=14.000
 	}
 
-	history = {
+	history={
 		owner = GER
 		add_core_of = GER
 		victory_points = {
-			587 30
+			587 30 
 		}
 		victory_points = {
-			9522 1
+			9522 1 
 		}
 		buildings = {
 			infrastructure = 4
@@ -20,16 +21,22 @@ state = {
 			industrial_complex = 6
 			3444 = {
 				bunker = 2
+
 			}
 			9522 = {
 				bunker = 2
+
 			}
+
 		}
+
 	}
 
-	provinces = {
-		587 3444 3488 3547 9522 11435 11470 11494
+	provinces={
+		3547 11435 11470 11494 14682 
 	}
-	manpower = 3103178
-	state_category = twelve
+	manpower=3103178
+	buildings_max_level_factor=1.000
+	state_category=twelve
+	local_supplies=0.000
 }
