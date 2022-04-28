@@ -1,0 +1,20 @@
+state={
+	id=1291
+	name="STATE_1291"
+
+	history={
+		owner = PAL
+		add_claim_by = OTT
+		add_core_of = EGY
+		add_core_of = PAL
+		set_demilitarized_zone = yes
+
+	}
+
+	provinces={
+		1155 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
