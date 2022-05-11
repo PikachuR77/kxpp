@@ -1,0 +1,24 @@
+state = {
+	id = 1309
+	name = "STATE_1309"
+	manpower = 342872
+	state_category = four
+
+
+
+	history = {
+		owner = CZE
+		victory_points = {
+			3583 2 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		add_core_of = CZE
+		add_core_of = AUS
+	}
+	provinces = {
+		3583 6485 
+	}
+}

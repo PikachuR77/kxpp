@@ -17,9 +17,9 @@ state = {
 				bunker = 1
 			}
 		}
-		#victory_points = { #Csermő
-		#	6697 1
-		#}
+		victory_points = { #Csermő
+			6697 1
+		}
 		victory_points = {
 			6682 2
 		}

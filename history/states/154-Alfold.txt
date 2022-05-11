@@ -15,9 +15,9 @@ state = {
 		victory_points = {
 			11659 10
 		}
-		#victory_points = { #Hajdúböszörmény
-		#	730 1
-		#}
+		victory_points = { #Hajdúböszörmény
+			730 1
+		}
 		victory_points = { #Szolnok
 			699 3
 		}

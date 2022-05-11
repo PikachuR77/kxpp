@@ -10,7 +10,8 @@ state = {
 		add_core_of = BHC
 		add_claim_by = PRF
 		add_claim_by = DEH
-		victory_points = { 4516 5 } #Patna
+		victory_points = {
+			4516 5 } #Patna
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

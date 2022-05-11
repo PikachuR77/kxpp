@@ -9,7 +9,8 @@ state = {
 		owner = BHC
 		add_core_of = BHC
 		add_core_of = NEP
-		victory_points = { 12338 1 } #Darjeeling
+		victory_points = {
+			12338 1 } #Darjeeling
 		buildings = {
 			infrastructure = 2
 		}

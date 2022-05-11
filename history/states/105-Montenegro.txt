@@ -17,11 +17,12 @@ state={
 		}
 		add_core_of = CRO
 		add_core_of = MNT
+		add_claim_by = SER
 
 	}
 
 	provinces={
-		14671 
+		9809 9821 14727
 	}
 	manpower=370000
 	buildings_max_level_factor=1.000

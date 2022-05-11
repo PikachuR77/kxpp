@@ -19,9 +19,9 @@ state = {
 			7236 = { # Songkhla Landing Zone
 				naval_base = 1
 			}
-#			1281 = { # Chumporn Landing Zone
-#				naval_base = 1
-#			}
+			1281 = { # Chumporn Landing Zone
+				naval_base = 1
+			}
 			4312 = { # Sichon Landing Zone
 				naval_base = 1
 			}
@@ -32,9 +32,9 @@ state = {
 		victory_points = {
 			4312 2 # Nakhon Si Thammarat - 3
 		}
-#		victory_points = {
-#			10156 1 # Mambang/Satun
-#		}
+		victory_points = {
+			10156 1 # Mambang/Satun
+		}
 		add_core_of = SIA
 	}
 

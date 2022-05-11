@@ -1,0 +1,28 @@
+state = {
+	id = 1307
+	name = "STATE_1307"
+	manpower = 96401
+	state_category = one
+
+	history = {
+		owner = CRO
+		add_core_of = CRO
+		add_core_of = MNT
+		add_claim_by = SER
+		victory_points = {
+			14671 2
+		}
+		buildings = {
+			infrastructure = 2
+			14671 = {
+				naval_base = 1
+				bunker = 1
+			}
+		}
+	}
+
+	provinces = {
+		14671
+	}
+}
+

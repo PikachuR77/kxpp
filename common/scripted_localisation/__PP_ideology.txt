@@ -1,0 +1,24 @@
+defined_text = {
+    name = SocDemColor
+    text = {
+        trigger = {
+            #has_country_flag = soc_dems_are_socialists
+        }
+        localization_key = social_democrat_revolutionary
+    }
+    text = {
+        localization_key = social_democrat_chill
+    }
+}
+defined_text = {
+    name = AuthDemColor
+    text = {
+        trigger = {
+            has_country_flag = auth_dems_are_elected
+        }
+        localization_key = authoritarian_democrat_chill
+    }
+    text = {
+        localization_key = authoritarian_democrat_meanies
+    }
+}

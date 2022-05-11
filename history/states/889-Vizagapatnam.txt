@@ -14,7 +14,8 @@ state = {
 		add_core_of = PRF
 		add_claim_by = BHC
 		add_claim_by = DEH
-		victory_points = { 10001 1 } #Vizagapatnam
+		victory_points = {
+			10001 1 } #Vizagapatnam
 		buildings = {
 			infrastructure = 2
 		}

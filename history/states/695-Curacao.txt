@@ -6,7 +6,8 @@ state = {
 	state_category = one_island
 
 	history = {
-		victory_points = { 153 1 }
+		victory_points = {
+			153 1 }
 		owner = HOL
 
 		buildings = {

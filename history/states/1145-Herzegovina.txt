@@ -12,9 +12,9 @@ state = {
 		victory_points = {
 			9894 5
 		}
-		#victory_points = { #Trebinje
-		#	11845 3
-		#}
+		victory_points = { #Trebinje
+			11845 3
+		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -25,6 +25,6 @@ state = {
 	}
 
 	provinces = {
-		953 9894 11845
+		953 9894 11845 14726
 	}
 }

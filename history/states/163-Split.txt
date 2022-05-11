@@ -10,9 +10,9 @@ state = {
 		victory_points = {
 			3924 5
 		}
-		#victory_points = { #Šibenik
-		#	3943 1
-		#}
+		victory_points = { #Šibenik
+			3943 1
+		}
 		buildings = {
 			infrastructure = 2
 			dockyard = 2
@@ -28,6 +28,6 @@ state = {
 	}
 
 	provinces = {
-		3924 3943 3974 11901
+		3924 3943 3974 11816 11901 14708
 	}
 }

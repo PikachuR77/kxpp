@@ -10,8 +10,10 @@ state = {
 		add_core_of = DEH
 		add_claim_by = BHC
 		add_claim_by = PRF
-		victory_points = { 12080 3 } #Indore
-		victory_points = { 11995 1 } #Bhopal
+		victory_points = {
+			12080 3 } #Indore
+		victory_points = {
+			11995 1 } #Bhopal
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

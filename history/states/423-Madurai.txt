@@ -14,7 +14,8 @@ state = {
 		add_core_of = PRF
 		add_claim_by = BHC
 		add_claim_by = DEH
-		victory_points = { 1409 3 } #Madurai
+		victory_points = {
+			1409 3 } #Madurai
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

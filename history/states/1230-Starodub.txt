@@ -9,7 +9,7 @@ state = {
 		owner = UKR
 		add_core_of = UKR
 		victory_points = {
-			315 2 #Starodub
+			11229 2 #Starodub
 		}
 		buildings = {
 			infrastructure = 1

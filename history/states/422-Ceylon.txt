@@ -12,7 +12,8 @@ state = {
 	history = {
 		owner = CEY
 		add_core_of = CEY
-		victory_points = { 7260 1 } #Colombo
+		victory_points = {
+			7260 1 } #Colombo
 		buildings = {
 			infrastructure = 2
 			air_base = 2

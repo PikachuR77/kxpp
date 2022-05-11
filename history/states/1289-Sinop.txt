@@ -1,13 +1,16 @@
+
 state={
 	id=1289
 	name="STATE_1289"
+
 	history={
 		owner = OTT
 		add_core_of = OTT
 
 	}
+
 	provinces={
-		3967 6978 6995 9900 
+		6995 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

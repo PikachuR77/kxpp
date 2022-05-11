@@ -14,8 +14,8 @@ state = {
 		add_core_of = PRF
 		add_claim_by = BHC
 		add_claim_by = DEH
-		victory_points = { 7402 3 } #Trivandrum
-		victory_points = { 10130 1 } #Cochin
+		victory_points = {
+			7402 3 } #Trivandrum
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

@@ -4,8 +4,8 @@ state={
 	name="STATE_1097"
 
 	history={
-		owner = CRO
-		add_core_of = CRO
+		owner = SER
+		add_core_of = SER
 		add_core_of = MNT
 		victory_points = {
 			6913 1 
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		6913 9809 9821 11858 
+		6913 11858
 	}
 	manpower=260000
 	buildings_max_level_factor=1.000

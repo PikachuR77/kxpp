@@ -23,14 +23,14 @@ state = {
 			3670 2
 		}
 		victory_points = { #Kaposvar
-			5585 3
+			6685 3
 		}
-		#victory_points = { #Szekszárd
-		#	3680 1
-		#}
+		victory_points = { #Szekszárd
+			3680 1
+		}
 	}
 
 	provinces = {
-		682 3670 3680 6685 9624 9643 11610
+		682 3670 3680 6685 9624 9643 11610 14700
 	}
 }

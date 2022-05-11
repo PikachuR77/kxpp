@@ -2434,3 +2434,7 @@ CEY_GER = {
 	color = rgb { 110 35 35 }
 	color_ui = rgb { 110 35 35 }
 }
+LOM_LMV = {
+	color = rgb { 150 150 50 }
+	color_ui = rgb { 150 150 50 }
+}

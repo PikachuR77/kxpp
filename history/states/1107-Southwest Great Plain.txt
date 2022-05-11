@@ -17,9 +17,9 @@ state = {
 		victory_points = {
 			6700 3
 		}
-		#victory_points = { #Baja
-		#	6670 1
-		#}
+		victory_points = { #Baja
+			6670 1
+		}
 	}
 
 	provinces = {

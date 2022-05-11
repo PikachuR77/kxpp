@@ -15,7 +15,8 @@ state = {
 		add_core_of = PRF
 		add_claim_by = BHC
 		add_claim_by = DEH
-		victory_points = { 12295 1 } #Kolhapur
+		victory_points = {
+			12295 1 } #Kolhapur
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2

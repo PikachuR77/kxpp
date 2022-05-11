@@ -13,9 +13,9 @@ state = {
 		victory_points = {
 			11787 1
 		}
-		#victory_points = { #Vršac
-		#	614 1
-		#}
+		victory_points = { #Vršac
+			614 1
+		}
 	}
 
 	provinces = {

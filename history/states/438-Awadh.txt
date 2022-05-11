@@ -10,9 +10,12 @@ state = {
 		add_core_of = DEH
 		add_claim_by = BHC
 		add_claim_by = PRF
-		victory_points = { 4299 3 } #Lucknow
-		victory_points = { 12137 1 } #Cawnpore
-		victory_points = { 4459 1 } #Gorakhpur
+		victory_points = {
+			4299 3 } #Lucknow
+		victory_points = {
+			12137 1 } #Cawnpore
+		victory_points = {
+			4459 1 } #Gorakhpur
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

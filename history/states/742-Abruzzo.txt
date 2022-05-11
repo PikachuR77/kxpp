@@ -7,6 +7,7 @@ state={
 		owner = SRI
 		add_core_of = SRI
 		add_claim_by = ITA
+		add_claim_by = SIC
 		victory_points = {
 			6831 1 
 		}

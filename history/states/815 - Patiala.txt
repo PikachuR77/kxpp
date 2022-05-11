@@ -10,7 +10,8 @@ state = {
 		add_core_of = DEH
 		add_claim_by = BHC
 		add_claim_by = PRF
-		victory_points = { 2032 1 } #Patiala
+		victory_points = {
+			2032 1 } #Patiala
 		buildings = {
 			infrastructure = 3
 		}

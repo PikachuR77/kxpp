@@ -3,19 +3,24 @@ state = {
 	name = "STATE_1202" # Northwestern Siberia
 	manpower = 14983
 
-	state_category = wasteland
-	impassable = yes
+	state_category=wasteland
 
 	history = {
-		owner = RUS
+		owner = TRM
 		buildings = {
 			infrastructure = 1
+			13204 = {
+				naval_base = 1
+
+			}
 		}
-		add_core_of = RUS
-		add_claim_by = TRM
+		add_core_of = TRM
+		add_claim_by = RUS
 	}
 
 	provinces = {
-		13063 13204
+		13063 13204 14728 14729 14730 14731
 	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
 }

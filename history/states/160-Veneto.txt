@@ -7,9 +7,10 @@ state = {
 	}
 
 	history = {
-		owner = AUS
-		add_claim_by = AUS
-		add_core_of = ITA
+		owner = LOM
+		add_core_of = LOM
+		add_claim_by = ITA
+		add_claim_by = SRI
 		victory_points = {
 			603 3
 		}
@@ -27,9 +28,9 @@ state = {
 				bunker = 1
 			}
 		}
-		#victory_points = { #Rovigo
-		#	9582 1
-		#}
+		victory_points = { #Rovigo
+			9582 1
+		}
 		victory_points = { #Vicenza
 			3604 2
 		}

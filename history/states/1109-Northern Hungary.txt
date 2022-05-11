@@ -16,9 +16,9 @@ state = {
 		victory_points = { #Eger
 			3731 3
 		}
-		#victory_points = { #Miskolc (has heavy industry)
-		#	3713 2
-		#}
+		victory_points = { #Miskolc (has heavy industry)
+			3713 2
+		}
 	}
 
 	provinces = {

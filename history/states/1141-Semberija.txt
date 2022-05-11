@@ -18,9 +18,9 @@ state = {
 		victory_points = { #Brčko
 			11574 1
 		}
-		#victory_points = { #Bijeljina
-		#	606 2
-		#}
+		victory_points = { #Bijeljina
+			606 2
+		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

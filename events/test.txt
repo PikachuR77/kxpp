@@ -2,6 +2,7 @@ add_namespace = testop
 
 country_event = {
 	id = testop.1
+	desc = testop.1.d
 	
 	is_triggered_only = yes
 	

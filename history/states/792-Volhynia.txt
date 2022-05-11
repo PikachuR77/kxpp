@@ -1,22 +1,27 @@
-state = {
-	id = 792
-	name = "STATE_792"
-	manpower = 1370544
-	state_category = three
 
-	history = {
+state={
+	id=792
+	name="STATE_792"
+
+	history={
 		owner = UKR
 		add_core_of = UKR
 		victory_points = {
-			513 2 #Lutsk
+			513 2 
 		}
 		buildings = {
 			infrastructure = 2
 			air_base = 2
+
 		}
+
 	}
 
-	provinces = {
-		422 474 513 572 3412 9520 11441 
+	provinces={
+		422 474 513 572 3412 
 	}
+	manpower=1370544
+	buildings_max_level_factor=1.000
+	state_category=three
+	local_supplies=0.000
 }

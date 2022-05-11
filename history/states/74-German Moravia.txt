@@ -1,15 +1,15 @@
 state = {
 	id = 74
 	name = "STATE_74"
-	manpower = 820000
+	manpower = 477128
 
 	state_category = four
 
 
 	history = {
 		owner = CZE
-		victory_points = { 3414 2 }
-		victory_points = { 3583 2 }
+		victory_points = {
+			3414 2 }
 		buildings = {
 			infrastructure = 3
 		}
@@ -17,6 +17,6 @@ state = {
 		add_core_of = AUS
 	}
 	provinces = {
-		3414 3583 421 6485
+		421 3414 14732
 	}
 }

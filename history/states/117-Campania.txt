@@ -13,7 +13,9 @@ state = {
 		owner = SRI
 		add_core_of = SRI
 		add_claim_by = ITA
-		victory_points = { 819 20 } #Naples
+		add_claim_by = SIC
+		victory_points = {
+			819 20 } #Naples
 		buildings = {
 			infrastructure = 3
 			arms_factory = 3

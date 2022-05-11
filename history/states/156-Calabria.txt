@@ -8,7 +8,9 @@ state = {
 		owner = SRI
 		add_core_of = SRI
 		add_claim_by = ITA
-		victory_points = { 9990 2 } #Reggio di Calabria
+		add_claim_by = SIC
+		victory_points = {
+			9990 2 } #Reggio di Calabria
 		buildings = {
 			infrastructure = 3
 			air_base = 5

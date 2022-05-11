@@ -29,9 +29,9 @@ state = {
 		victory_points = { #Kecskemet
 			684 5
 		}
-		#victory_points = { #Vac
-		#	9690 3
-		#}
+		victory_points = { #Vac
+			9690 3
+		}
 		add_core_of = HUN
 	}
 

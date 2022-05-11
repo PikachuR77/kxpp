@@ -10,8 +10,10 @@ state = {
 		add_core_of = BHC
 		add_claim_by = PRF
 		add_claim_by = DEH
-		victory_points = { 4883 2 } #Nagpur
-		victory_points = { 7465 1 } #Jagdalpur
+		victory_points = {
+			4883 2 } #Nagpur
+		victory_points = {
+			7465 1 } #Jagdalpur
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

@@ -10,7 +10,8 @@ state = {
 		add_core_of = MAD
 		add_claim_by = BHC
 		add_claim_by = DEH
-		victory_points = { 10149 1 } #Pondicherry
+		victory_points = {
+			10149 1 } #Pondicherry
 		buildings = {
 			infrastructure = 4
 			10149 = {

@@ -2,9 +2,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 
 #### Canals
 
+803;5388;sea;12049;-1;-1;-1;-1;SUEZ_CANAL;Suez
 2729;2408;sea;3231;3368;317;6257;6389;KAISER-WILHELM-KANAL;Kaiser-Wilhelm-Kanal
 8857;2284;sea;7617;1560;1009;1556;1016;PANAMA_CANAL;Panama
-5388;803;sea;1155;-1;-1;-1;-1;SUEZ_CANAL;Suez
+843;8282;sea;426;-1;-1;-1;-1;VOLGA_DON_CANAL;Volga-Don-Kanal
 
 #### Straits
 
@@ -143,6 +144,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 11157;3145;sea;5792;-1;-1;-1;-1;;Northern-Straits
 11667;13632;sea;13200;-1;-1;-1;-1;;Minnesota-Northwest Corner
 11251;3325;;2408;2956;1628;2960;1629;;Fyn-SdrJylland
+11901;11735;sea;5786;3032;1411;3035;1411;;Dalmatia
 11948;1177;sea;2708;-1;-1;-1;-1;;Jeju-Korea
 11985;1025;sea;8791;-1;-1;-1;-1;;Japan-Kyushu
 12126;1428;sea;812;-1;-1;-1;-1;;Tanahbala-Siberut
@@ -169,78 +171,186 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13056;13057;sea;8419;-1;-1;-1;-1;;Funafuti-Nukulaelae
 13090;10694;sea;6064;-1;-1;-1;-1;;Unalaska-Unimak
 13606;4155;sea;5507;-1;-1;-1;-1;;Anguilla-Virgin Islands
-14691;4428;sea;5257;-1;-1;-1;-1;;San Juan Islands 1
+14691;4428;sea;5257;887;1713;885;1718;;San Juan Islands 1
 14691;10157;sea;5257;-1;-1;-1;-1;;San Juan Islands 2
+14708;3868;sea;8282;-1;-1;-1;-1;;Dalmatia
+14708;3924;sea;8282;-1;-1;-1;-1;;Dalmatia
+14708;11816;sea;8282;-1;-1;-1;-1;;Dalmatia
 
 #### Impassables
+
+# Andes
+
+2199;5169;impassable;-1;-1;-1;-1;-1;;Andes
+2215;8229;impassable;-1;-1;-1;-1;-1;;Andes
+2215;8251;impassable;-1;-1;-1;-1;-1;;Andes
+
+# Arakan Mountains
+
+1333;1014;impassable;-1;-1;-1;-1;-1;;Arakan Mountains
+
+# Carpathians
+
+727;3743;impassable;-1;-1;-1;-1;-1;;Carpathians
+727;9548;impassable;-1;-1;-1;-1;-1;;Carpathians
+727;11689;impassable;-1;-1;-1;-1;-1;;Carpathians
+3665;6667;impassable;-1;-1;-1;-1;-1;;Carpathians
+3665;11605;impassable;-1;-1;-1;-1;-1;;Carpathians
+6571;3743;impassable;-1;-1;-1;-1;-1;;Carpathians
+6571;9425;impassable;-1;-1;-1;-1;-1;;Carpathians
+9619;6667;impassable;-1;-1;-1;-1;-1;;Carpathians
+6679;11605;impassable;-1;-1;-1;-1;-1;;Carpathians
+9685;11689;impassable;-1;-1;-1;-1;-1;;Carpathians
+9704;3743;impassable;-1;-1;-1;-1;-1;;Carpathians
+
+# Caucasus
+
+654;6674;impassable;-1;-1;-1;-1;-1;;Caucasus
+654;9632;impassable;-1;-1;-1;-1;-1;;Caucasus
+654;6674;impassable;-1;-1;-1;-1;-1;;Caucasus
+654;9632;impassable;-1;-1;-1;-1;-1;;Caucasus
+672;6674;impassable;-1;-1;-1;-1;-1;;Caucasus
+672;11664;impassable;-1;-1;-1;-1;-1;;Caucasus
+1530;9632;impassable;-1;-1;-1;-1;-1;;Caucasus
+1530;11609;impassable;-1;-1;-1;-1;-1;;Caucasus
+
+# Daen Lao Mountains
+
+1990;7647;impassable;-1;-1;-1;-1;-1;;Daen Lao Mountains
+
+# Dzungaria
+
+1774;4849;impassable;-1;-1;-1;-1;-1;;Dzungaria
+1774;7737;impassable;-1;-1;-1;-1;-1;;Dzungaria
+1783;7850;impassable;-1;-1;-1;-1;-1;;Dzungaria
+
+# Eastern Alps
+
+3657;671;impassable;-1;-1;-1;-1;-1;;Alps
+3657;11615;impassable;-1;-1;-1;-1;-1;;Alps
+3657;14703;impassable;-1;-1;-1;-1;-1;;Alps
+9613;14703;impassable;-1;-1;-1;-1;-1;;Alps
+9613;14704;impassable;-1;-1;-1;-1;-1;;Alps
+13582;11612;impassable;-1;-1;-1;-1;-1;;Alps
+13582;14704;impassable;-1;-1;-1;-1;-1;;Alps
+
+# Fengtian-Mongolia
+
+1811;7812;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
+1811;10429;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
+3978;10363;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
+7578;10429;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
+10363;10429;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
+10363;10499;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
+10363;10499;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
+
+# Himalayas
+
+1129;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
+1898;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
+1898;8029;impassable;-1;-1;-1;-1;-1;;Himalayas
+1996;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
+1996;5102;impassable;-1;-1;-1;-1;-1;;Himalayas
+1996;8041;impassable;-1;-1;-1;-1;-1;;Himalayas
+3989;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
+4318;5102;impassable;-1;-1;-1;-1;-1;;Himalayas
+10810;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
+10825;1991;impassable;-1;-1;-1;-1;-1;;Himalayas
+10825;8029;impassable;-1;-1;-1;-1;-1;;Himalayas
+10910;1991;impassable;-1;-1;-1;-1;-1;;Himalayas
+10910;12807;impassable;-1;-1;-1;-1;-1;;Himalayas
+12730;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
+
+# Norway
 
 58;9126;impassable;-1;-1;-1;-1;-1;;Norway
 100;3129;impassable;-1;-1;-1;-1;-1;;Norway
 100;11101;impassable;-1;-1;-1;-1;-1;;Norway
-607;3641;impassable;-1;-1;-1;-1;-1;;Alps
-654;6674;impassable;-1;-1;-1;-1;-1;;Caucasus
-654;9632;impassable;-1;-1;-1;-1;-1;;Caucasus
-656;671;impassable;-1;-1;-1;-1;-1;;Alps
-672;6674;impassable;-1;-1;-1;-1;-1;;Caucasus
-672;11664;impassable;-1;-1;-1;-1;-1;;Caucasus
-711;11689;impassable;-1;-1;-1;-1;-1;;Carpathians
-727;3743;impassable;-1;-1;-1;-1;-1;;Carpathians
-727;9548;impassable;-1;-1;-1;-1;-1;;Carpathians
-727;11689;impassable;-1;-1;-1;-1;-1;;Carpathians
+3059;9047;impassable;-1;-1;-1;-1;-1;;Norway
+6136;6216;impassable;-1;-1;-1;-1;-1;;Norway
+6152;173;impassable;-1;-1;-1;-1;-1;;Norway
+6152;6111;impassable;-1;-1;-1;-1;-1;;Norway
+6155;3034;impassable;-1;-1;-1;-1;-1;;Norway
+6155;3132;impassable;-1;-1;-1;-1;-1;;Norway
+6155;9126;impassable;-1;-1;-1;-1;-1;;Norway
+6184;11101;impassable;-1;-1;-1;-1;-1;;Norway
+6184;11198;impassable;-1;-1;-1;-1;-1;;Norway
+9175;173;impassable;-1;-1;-1;-1;-1;;Norway
+9175;6214;impassable;-1;-1;-1;-1;-1;;Norway
+9178;3034;impassable;-1;-1;-1;-1;-1;;Norway
+11037;6216;impassable;-1;-1;-1;-1;-1;;Norway
+11037;9047;impassable;-1;-1;-1;-1;-1;;Norway
+11058;6214;impassable;-1;-1;-1;-1;-1;;Norway
+11058;9126;impassable;-1;-1;-1;-1;-1;;Norway
+
+# Peshawar Mountains
+
+1978;5082;impassable;-1;-1;-1;-1;-1;;Peshawar Mountains
+1978;8090;impassable;-1;-1;-1;-1;-1;;Peshawar Mountains
+2084;7519;impassable;-1;-1;-1;-1;-1;;Peshawar Mountains
+
+# Pyrenees
+
 899;9882;impassable;-1;-1;-1;-1;-1;;Pyrenees
 915;9882;impassable;-1;-1;-1;-1;-1;;Pyrenees
 915;9884;impassable;-1;-1;-1;-1;-1;;Pyrenees
-1129;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
-1274;7308;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
-1274;12209;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
-1313;4320;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
-1313;12209;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
-1333;1014;impassable;-1;-1;-1;-1;-1;;Arakan Mountains
-1530;9632;impassable;-1;-1;-1;-1;-1;;Caucasus
-1530;11609;impassable;-1;-1;-1;-1;-1;;Caucasus
-1533;7368;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
-1533;10382;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
-1648;8360;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
-1648;12488;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
-1774;4849;impassable;-1;-1;-1;-1;-1;;Dzungaria
-1774;7737;impassable;-1;-1;-1;-1;-1;;Dzungaria
-1783;7850;impassable;-1;-1;-1;-1;-1;;Dzungaria
-1805;12623;impassable;-1;-1;-1;-1;-1;;Yakutia
-1811;7812;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
-1811;10429;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
-1845;7844;impassable;-1;-1;-1;-1;-1;;Yakutia
-1898;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
-1898;8029;impassable;-1;-1;-1;-1;-1;;Himalayas
-1978;5082;impassable;-1;-1;-1;-1;-1;;Peshawar Mountains
-1978;8090;impassable;-1;-1;-1;-1;-1;;Peshawar Mountains
-1990;7647;impassable;-1;-1;-1;-1;-1;;Daen Lao Mountains
-1996;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
-1996;5102;impassable;-1;-1;-1;-1;-1;;Himalayas
-1996;8041;impassable;-1;-1;-1;-1;-1;;Himalayas
-2028;2099;impassable;-1;-1;-1;-1;-1;;Qinghai
-2053;5100;impassable;-1;-1;-1;-1;-1;;Qinghai
-2084;7519;impassable;-1;-1;-1;-1;-1;;Peshawar Mountains
-2099;5076;impassable;-1;-1;-1;-1;-1;;Qinghai
-2099;5100;impassable;-1;-1;-1;-1;-1;;Qinghai
-2198;13733;impassable;-1;-1;-1;-1;-1;;Xinjiang-Tibet
-2199;5169;impassable;-1;-1;-1;-1;-1;;Andes
-2215;8229;impassable;-1;-1;-1;-1;-1;;Andes
-2215;8251;impassable;-1;-1;-1;-1;-1;;Andes
-3059;9047;impassable;-1;-1;-1;-1;-1;;Norway
-3657;671;impassable;-1;-1;-1;-1;-1;;Alps
-3657;3673;impassable;-1;-1;-1;-1;-1;;Alps
-3665;6667;impassable;-1;-1;-1;-1;-1;;Carpathians
-3665;11605;impassable;-1;-1;-1;-1;-1;;Carpathians
 3898;3915;impassable;-1;-1;-1;-1;-1;;Pyrenees
 3898;6931;impassable;-1;-1;-1;-1;-1;;Pyrenees
 3899;3915;impassable;-1;-1;-1;-1;-1;;Pyrenees
 3899;9882;impassable;-1;-1;-1;-1;-1;;Pyrenees
-3978;10363;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
-3989;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
+9884;11838;impassable;-1;-1;-1;-1;-1;;Pyrenees
+
+# Qinghai
+
+2028;2099;impassable;-1;-1;-1;-1;-1;;Qinghai
+2053;5100;impassable;-1;-1;-1;-1;-1;;Qinghai
+2099;5076;impassable;-1;-1;-1;-1;-1;;Qinghai
+2099;5100;impassable;-1;-1;-1;-1;-1;;Qinghai
+
+# Sumatran Mountains
+
+1274;7308;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
+1274;12209;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
+1313;4320;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
+1313;12209;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
+1533;7368;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
+1533;10382;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
+1648;8360;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
+1648;12488;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
+
+# Western Alps
+
+6635;636;impassable;-1;-1;-1;-1;-1;;Alps
+6635;3641;impassable;-1;-1;-1;-1;-1;;Alps
+6635;9587;impassable;-1;-1;-1;-1;-1;;Alps
+6635;9600;impassable;-1;-1;-1;-1;-1;;Alps
+6635;11601;impassable;-1;-1;-1;-1;-1;;Alps
+6661;658;impassable;-1;-1;-1;-1;-1;;Alps
+6661;3662;impassable;-1;-1;-1;-1;-1;;Alps
+9620;636;impassable;-1;-1;-1;-1;-1;;Alps
+9620;9618;impassable;-1;-1;-1;-1;-1;;Alps
+11570;3612;impassable;-1;-1;-1;-1;-1;;Alps
+11570;9587;impassable;-1;-1;-1;-1;-1;;Alps
+11587;3660;impassable;-1;-1;-1;-1;-1;;Alps
+11587;3662;impassable;-1;-1;-1;-1;-1;;Alps
+11587;6675;impassable;-1;-1;-1;-1;-1;;Alps
+11604;636;impassable;-1;-1;-1;-1;-1;;Alps
+
+# Xinjiang-Tibet
+
+2198;13733;impassable;-1;-1;-1;-1;-1;;Xinjiang-Tibet
+
+# Yakutia
+
+1805;12623;impassable;-1;-1;-1;-1;-1;;Yakutia
+1845;7844;impassable;-1;-1;-1;-1;-1;;Yakutia
+
+#### UNSORTED IMPASSABLE
+
+
 4019;1014;impassable;-1;-1;-1;-1;-1;;Arakan Mountains
 4019;4147;impassable;-1;-1;-1;-1;-1;;Arakan Mountains
 4059;1014;impassable;-1;-1;-1;-1;-1;;Arakan Mountains
-4318;5102;impassable;-1;-1;-1;-1;-1;;Himalayas
 4348;1315;impassable;-1;-1;-1;-1;-1;;Tenassarim Mountains
 4348;1385;impassable;-1;-1;-1;-1;-1;;Tenassarim Mountains
 4348;7295;impassable;-1;-1;-1;-1;-1;;Tenassarim Mountains
@@ -282,26 +392,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 5076;7997;impassable;-1;-1;-1;-1;-1;;Qinghai
 5076;7997;impassable;-1;-1;-1;-1;-1;;Qinghai
 5192;8253;impassable;-1;-1;-1;-1;-1;;Andes
-6136;6216;impassable;-1;-1;-1;-1;-1;;Norway
-6152;173;impassable;-1;-1;-1;-1;-1;;Norway
-6152;6111;impassable;-1;-1;-1;-1;-1;;Norway
-6155;3034;impassable;-1;-1;-1;-1;-1;;Norway
-6155;3132;impassable;-1;-1;-1;-1;-1;;Norway
-6155;9126;impassable;-1;-1;-1;-1;-1;;Norway
-6184;11101;impassable;-1;-1;-1;-1;-1;;Norway
-6184;11198;impassable;-1;-1;-1;-1;-1;;Norway
 6436;1455;impassable;-1;-1;-1;-1;-1;;Caucasus
 6436;7554;impassable;-1;-1;-1;-1;-1;;Caucasus
-6571;3743;impassable;-1;-1;-1;-1;-1;;Carpathians
-6571;9425;impassable;-1;-1;-1;-1;-1;;Carpathians
-6635;636;impassable;-1;-1;-1;-1;-1;;Alps
-6635;3641;impassable;-1;-1;-1;-1;-1;;Alps
-6635;9587;impassable;-1;-1;-1;-1;-1;;Alps
-6635;9600;impassable;-1;-1;-1;-1;-1;;Alps
-6635;11601;impassable;-1;-1;-1;-1;-1;;Alps
-6661;658;impassable;-1;-1;-1;-1;-1;;Alps
-6661;3662;impassable;-1;-1;-1;-1;-1;;Alps
-6679;11605;impassable;-1;-1;-1;-1;-1;;Carpathians
 6763;1450;impassable;-1;-1;-1;-1;-1;;Caucasus
 6763;3711;impassable;-1;-1;-1;-1;-1;;Caucasus
 6763;7554;impassable;-1;-1;-1;-1;-1;;Caucasus
@@ -319,7 +411,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7534;3999;impassable;-1;-1;-1;-1;-1;;Arakan Mountains
 7534;11966;impassable;-1;-1;-1;-1;-1;;Arakan Mountains
 7559;4408;impassable;-1;-1;-1;-1;-1;;Thanon Thong Chai Mountains
-7578;10429;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
 7673;10522;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
 7675;7647;impassable;-1;-1;-1;-1;-1;;Daen Lao Mountains
 7675;12317;impassable;-1;-1;-1;-1;-1;;Daen Lao Mountains
@@ -340,16 +431,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 8044;8090;impassable;-1;-1;-1;-1;-1;;Peshawar Mountains
 8191;13524;impassable;-1;-1;-1;-1;-1;;Acre-Peru
 8192;8251;impassable;-1;-1;-1;-1;-1;;Andes
-9175;173;impassable;-1;-1;-1;-1;-1;;Norway
-9175;6214;impassable;-1;-1;-1;-1;-1;;Norway
-9178;3034;impassable;-1;-1;-1;-1;-1;;Norway
-9613;3673;impassable;-1;-1;-1;-1;-1;;Alps
-9613;11612;impassable;-1;-1;-1;-1;-1;;Alps
-9619;6667;impassable;-1;-1;-1;-1;-1;;Carpathians
 9626;9632;impassable;-1;-1;-1;-1;-1;;Caucasus
-9685;11689;impassable;-1;-1;-1;-1;-1;;Carpathians
-9704;3743;impassable;-1;-1;-1;-1;-1;;Carpathians
-9884;11838;impassable;-1;-1;-1;-1;-1;;Pyrenees
 10150;7308;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
 10150;12138;impassable;-1;-1;-1;-1;-1;;Sumatran Mountains
 10193;7295;impassable;-1;-1;-1;-1;-1;;Tenassarim Mountains
@@ -360,9 +442,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 10330;8045;impassable;-1;-1;-1;-1;-1;;Luang Prabang Mountains
 10356;7531;impassable;-1;-1;-1;-1;-1;;Luang Prabang Mountains
 10356;8045;impassable;-1;-1;-1;-1;-1;;Luang Prabang Mountains
-10363;10429;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
-10363;10499;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
-10363;10499;impassable;-1;-1;-1;-1;-1;;Fengtian-Mongolia
 10371;7647;impassable;-1;-1;-1;-1;-1;;Daen Lao Mountains
 10417;7519;impassable;-1;-1;-1;-1;-1;;Stalinabad Mountains
 10417;12653;impassable;-1;-1;-1;-1;-1;;Stalinabad Mountains
@@ -376,22 +455,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 10802;5042;impassable;-1;-1;-1;-1;-1;;Xinjiang-Tibet
 10802;7273;impassable;-1;-1;-1;-1;-1;;Tibet-India
 10802;12884;impassable;-1;-1;-1;-1;-1;;Tibet-India
-10810;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
-10825;1991;impassable;-1;-1;-1;-1;-1;;Himalayas
-10825;8029;impassable;-1;-1;-1;-1;-1;;Himalayas
-10910;1991;impassable;-1;-1;-1;-1;-1;;Himalayas
-10910;12807;impassable;-1;-1;-1;-1;-1;;Himalayas
 10992;650;impassable;-1;-1;-1;-1;-1;;Andes
 10992;8229;impassable;-1;-1;-1;-1;-1;;Andes
-11037;6216;impassable;-1;-1;-1;-1;-1;;Norway
-11037;9047;impassable;-1;-1;-1;-1;-1;;Norway
-11058;6214;impassable;-1;-1;-1;-1;-1;;Norway
-11058;9126;impassable;-1;-1;-1;-1;-1;;Norway
-11570;3612;impassable;-1;-1;-1;-1;-1;;Alps
-11570;9587;impassable;-1;-1;-1;-1;-1;;Alps
-11587;3660;impassable;-1;-1;-1;-1;-1;;Alps
-11587;3662;impassable;-1;-1;-1;-1;-1;;Alps
-11587;6675;impassable;-1;-1;-1;-1;-1;;Alps
 11645;1450;impassable;-1;-1;-1;-1;-1;;Caucasus
 11645;3711;impassable;-1;-1;-1;-1;-1;;Caucasus
 12122;1296;impassable;-1;-1;-1;-1;-1;;Tenassarim Mountains
@@ -414,7 +479,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 12565;1666;impassable;-1;-1;-1;-1;-1;;Yakutia
 12623;1714;impassable;-1;-1;-1;-1;-1;;Yakutia
 12650;10667;impassable;-1;-1;-1;-1;-1;;Yakutia
-12730;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
 12763;10826;impassable;-1;-1;-1;-1;-1;;Peshawar Mountains
 12805;1766;impassable;-1;-1;-1;-1;-1;;Stalinabad Mountains
 12805;5087;impassable;-1;-1;-1;-1;-1;;Stalinabad Mountains
@@ -436,8 +500,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13500;8194;impassable;-1;-1;-1;-1;-1;;Andes
 13505;5192;impassable;-1;-1;-1;-1;-1;;Andes
 13505;13506;impassable;-1;-1;-1;-1;-1;;Andes
-13582;3673;impassable;-1;-1;-1;-1;-1;;Alps
-13582;11612;impassable;-1;-1;-1;-1;-1;;Alps
 13640;1181;impassable;-1;-1;-1;-1;-1;;Virungas
 13640;14233;impassable;-1;-1;-1;-1;-1;;Virungas
 13640;14234;impassable;-1;-1;-1;-1;-1;;Virungas

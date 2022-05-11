@@ -1,0 +1,25 @@
+state={
+	id=1296
+	name="STATE_1296"
+
+	history={
+		owner = GER
+		add_core_of = GER
+		buildings = {
+			infrastructure = 2
+			14705 = {
+				naval_base = 4
+
+			}
+
+		}
+		
+	}
+
+	provinces={
+		14705
+	}
+	manpower=364
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

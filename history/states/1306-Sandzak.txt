@@ -1,0 +1,17 @@
+state={
+	id=1306
+	name="STATE_1306"
+
+	history={
+		owner = SER
+		add_core_of = SER
+
+	}
+
+	provinces={
+		937 3922 14725
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

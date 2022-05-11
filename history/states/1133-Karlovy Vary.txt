@@ -10,7 +10,8 @@ state = {
 
 	history = {
 		owner = CZE
-		victory_points = { 424 1 } #Karlsbad
+		victory_points = {
+			424 1 } #Karlsbad
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
