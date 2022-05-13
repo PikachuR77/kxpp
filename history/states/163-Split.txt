@@ -8,10 +8,13 @@ state = {
 	history = {
 		owner = CRO
 		victory_points = {
-			3924 5
+			3924 10
 		}
 		victory_points = { #Šibenik
 			3943 1
+		}
+		victory_points = {
+			11816 1 
 		}
 		buildings = {
 			infrastructure = 2

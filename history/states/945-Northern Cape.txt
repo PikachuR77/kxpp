@@ -21,6 +21,9 @@ state = {
 		victory_points = {
 			13060 3 #Kimberley
 		}
+		victory_points = {
+			4528 1 
+		}
 	}
 
 	provinces = {

@@ -32,6 +32,9 @@ state = {
 		victory_points = {
 			5022 15 #Austin
 		}
+		victory_points = {
+			12341 1 
+		}
 	}
 
 	provinces = {

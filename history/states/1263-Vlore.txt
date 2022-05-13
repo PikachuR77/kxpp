@@ -6,6 +6,9 @@ state={
 		owner = ALB
 		add_core_of = ALB
 		
+		victory_points = {
+			11767 1
+		}
 	}
 	
 	provinces={

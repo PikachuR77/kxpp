@@ -16,6 +16,12 @@ state = {
 		victory_points = {
 			12256 1 # Toungoo
 		}
+		victory_points = {
+			7254 1 
+		}
+		victory_points = {
+			12127 1 
+		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2

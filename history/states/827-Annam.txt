@@ -27,6 +27,12 @@ state = {
 		victory_points = {
 			1605 1 # Dalat
 		}
+		victory_points = {
+			4363 1 
+		}
+		victory_points = {
+			10309 1 
+		}
 		buildings = {
 			infrastructure = 1
 			10162 = { # Cam Ranh Naval Base

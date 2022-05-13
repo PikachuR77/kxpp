@@ -8,9 +8,38 @@
 ###################################################################################################################################
 
 ### Albanian
+#endo_vp_606_albanian:0 "Bijeljina"
+ endo_vp_966_albanian:0 "Veria"
  endo_vp_3882_albanian:0 "Shkup"
- endo_vp_9784_albanian:0 "Prishtina"
+ endo_vp_3924_albanian:0 "Ndarë"
+ endo_vp_3943_albanian:0 "Shibenik"
+#endo_vp_6614_albanian:0 "Cazin"
+#endo_vp_6619_albanian:0 "Prijedor"
+#endo_vp_6799_albanian:0 "Tuzla"
+#endo_vp_6857_albanian:0 "Dzhumaya e Sipërme"
+ endo_vp_6889_albanian:0 "Rush"
+#endo_vp_6913_albanian:0 "Berane"
+#endo_vp_6957_albanian:0 "Livno"
+#endo_vp_6983_albanian:0 "Banja Luka"
+ endo_vp_9586_albanian:0 "Bihaq"
+ endo_vp_9874_albanian:0 "Prishtina"
+ endo_vp_9809_albanian:0 "Podgoricë"
+ endo_vp_9821_albanian:0 "Cetina"
+ endo_vp_9837_albanian:0 "Follorinë"
+ endo_vp_9894_albanian:0 "Mostari"
  endo_vp_9916_albanian:0 "Arta"
+#endo_vp_9930_albanian:0 "Kavala"
+ endo_vp_10203_albanian:0 "Korfuzi"
+#endo_vp_11572_albanian:0 "Semberija"
+#endo_vp_11574_albanian:0 "Brčko"
+#endo_vp_11816_albanian:0 "Sinj"
+ endo_vp_11816_albanian:0 "Selaniku"
+#endo_vp_11845_albanian:0 "Trebinje"
+ endo_vp_11872_albanian:0 "Ilixha"
+ endo_vp_11899_albanian:0 "Sarajevë"
+ endo_vp_14671_albanian:0 "Kotorrit"
+#endo_vp_14706_albanian:0 "Neum"
+#endo_vp_14725_albanian:0 "Novi Pazar"
 
 ### Arabic
  endo_vp_1086_arabic:0 "Al-Quds"
@@ -81,6 +110,7 @@
 #}	
 
 ### Bulgarian
+ endo_vp_966_bulgarian:0 "Veriya"
  endo_vp_9833_bulgarian:0 "Tsarigrad"
  endo_vp_11818_bulgarian:0 "Solun"
  endo_vp_11842_bulgarian:0 "Odrin"
@@ -117,6 +147,7 @@
  endo_vp_10297_chinese:0 "Jilongpo"
  endo_vp_10313_chinese:0 "Xinshan"
  endo_vp_10578_chinese:0 "Sangbezi"
+ endo_vp_11761_chinese_xinet:0 "Beijing XINET Central Core Complex"
  endo_vp_12068_chinese:0 "Gaoxiong"
  endo_vp_12255_chinese:0 "Gualalibei"
  endo_vp_12520_chinese:0 "Kebuduo"

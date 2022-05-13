@@ -6,6 +6,9 @@ state={
 		owner = OTT
 		add_core_of = OTT
 		add_core_of = KUR
+		victory_points = {
+			6826 1 
+		}
 		buildings = {
 			infrastructure = 2
 

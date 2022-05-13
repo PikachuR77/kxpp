@@ -9,6 +9,9 @@ state = {
 		victory_points = {
 			9948 1 # Lang Son
 		}
+		victory_points = {
+			7015 1 
+		}
 		buildings = {
 			infrastructure = 2
 		}

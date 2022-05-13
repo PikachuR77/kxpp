@@ -11,6 +11,9 @@ state = { #Ordos
 		buildings = {
 			infrastructure = 1
 		}
+		victory_points = {
+			10451 1 
+		}
 	}
 
 	provinces = {

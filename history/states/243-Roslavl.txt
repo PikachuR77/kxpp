@@ -8,6 +8,9 @@ state = {
 		owner = RUS
 		add_core_of = RUS
 		add_claim_by = TRM
+		victory_points = {
+			9247 1 
+		}
 		buildings = {
 			infrastructure = 3
 		}

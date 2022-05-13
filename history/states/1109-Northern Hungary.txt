@@ -19,6 +19,9 @@ state = {
 		victory_points = { #Miskolc (has heavy industry)
 			3713 2
 		}
+		victory_points = {
+			6751 1 
+		}
 	}
 
 	provinces = {

@@ -10,6 +10,12 @@ state={
 		owner = MAF
 		add_core_of = MAF
 		add_core_of = TZN
+		victory_points = {
+			8144 1 
+		}
+		victory_points = {
+			13317 1 
+		}
 		buildings = {
 			infrastructure = 3
 

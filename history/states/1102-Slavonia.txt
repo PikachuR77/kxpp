@@ -16,7 +16,7 @@ state = {
 			11594 2
 		}
 		victory_points = { #Virovitica
-			9611 1
+			3627 1
 		}
 		buildings = {
 			infrastructure = 4

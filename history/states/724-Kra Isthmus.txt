@@ -35,6 +35,9 @@ state = {
 		victory_points = {
 			10156 1 # Mambang/Satun
 		}
+		victory_points = {
+			12202 1 
+		}
 		add_core_of = SIA
 	}
 

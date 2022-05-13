@@ -16,6 +16,15 @@ state = {
 		victory_points = {
 			4075 15 # Hanoi (+Haiphong)
 		}
+		victory_points = {
+			4119 1 
+		}
+		victory_points = {
+			4529 1 
+		}
+		victory_points = {
+			11936 1 
+		}
 		buildings = {
 			industrial_complex = 1
 			arms_factory = 1

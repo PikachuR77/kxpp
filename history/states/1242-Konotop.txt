@@ -11,6 +11,9 @@ state = {
 		victory_points = {
 			6508 1 #Konotop
 		}
+		victory_points = {
+			9566 1 
+		}
 		buildings = {
 			infrastructure = 1
 		}

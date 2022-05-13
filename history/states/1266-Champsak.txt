@@ -6,7 +6,9 @@ state={
 		owner = SIA
 		add_core_of = SIA
 		add_core_of = LAO
-		
+		victory_points = {
+			1592 1
+		}
 	}
 	
 	provinces={

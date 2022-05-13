@@ -5,7 +5,12 @@ state={
 	history={
 		owner = SIA
 		add_core_of = SIA
-		
+		victory_points = {
+			1488 5 
+		}
+		victory_points = {
+			1990 1
+		}
 	}
 	
 	provinces={

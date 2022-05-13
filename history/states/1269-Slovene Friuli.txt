@@ -8,13 +8,13 @@ state={
 		add_claim_by = ITA
 		add_claim_by = SRI
 		
-		victory_points = { #Gorizia
-			13582 1
+		victory_points = { #Udine
+			9613 1
 		}
 	}
 	
 	provinces={
-		13582 
+		9613 13582 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

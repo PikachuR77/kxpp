@@ -17,6 +17,9 @@ state = {
 		victory_points = {
 			3999 1 #Hakha
 		}
+		victory_points = {
+			3651 1 #Ngapali
+		}
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

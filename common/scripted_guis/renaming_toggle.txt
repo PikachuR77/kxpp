@@ -9,23 +9,9 @@ scripted_gui = {
 			always = no
 		}
 
-		triggers = {
-			toggle_renaming_button_click_enabled = {
-				NOT = { has_global_flag = is_mp }
-			}
-		}
-
 		effects = {
 			toggle_renaming_button_click = {
-				if = {
-					limit = { has_global_flag = allowrenaming_flag }
-					disable_renaming = yes
-					set_variable = { global.renaming_frame = 1 }
-				}
-				else = {
-					enable_renaming = yes
-					set_variable = { global.renaming_frame = 2 }
-				}
+				do_all_renames_yes
 			}
 		}
 

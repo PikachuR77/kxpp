@@ -1,11 +1,14 @@
 state={
 	id=1297
-	name="STATE_1296"
+	name="STATE_1297"
 
 	history={
 		owner = CRO
 		add_core_of = CRO
 		add_core_of = BOS
+		victory_points = {
+			14706 1
+		}
 		buildings = {
 			infrastructure = 2
 

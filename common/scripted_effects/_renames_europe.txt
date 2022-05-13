@@ -2330,53 +2330,7 @@ do_swiss_renames_in_europe = {
 	}
 }
 
-do_albanian_renames_in_europe = {
-	if = {
-		limit = {
-			state = 106
-			NOT = { has_state_flag = renamed_state_albanian }
-		}
-		clr_state_flag = renamed_state_serbian
-		set_state_name = "Maqedonia"
-		set_state_flag = renamed_state_albanian
-		set_province_name = {
-			id = 3882
-			name = "Shkup"
-		}
-	}
-	else_if = {
-		limit = {
-			state = 185
-			NOT = { has_state_flag = renamed_state_albanian }
-		}
-		set_state_name = "Çamëria"
-		set_state_flag = renamed_state_albanian
-		set_province_name = {
-			id = 9916
-			name = "Arta"
-		}
-	}
-	else_if = {
-		limit = {
-			state = 765
-			NOT = { has_state_flag = renamed_state_albanian }
-		}
-		set_state_name = "Kosova"
-		set_state_flag = renamed_state_albanian
-		set_province_name = {
-			id = 9874
-			name = "Prishtina"
-		}
-	}
-	else_if = {
-		limit = {
-			state = 766
-			has_state_flag = renamed_state_greek
-		}
-		set_state_name = endo_state_766
-		clr_state_flag = renamed_state_greek
-	}
-}
+
 
 do_croatian_renames_in_europe = {
 	if = {

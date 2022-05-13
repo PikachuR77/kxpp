@@ -15,7 +15,7 @@ state = {
 		victory_points = { #Tuzla
 			6799 3
 		}
-		victory_points = { #Brčko
+		victory_points = { #Brcko; c normally fancy but brakes eclipse for some reason utf 8 blah blah blah
 			11574 1
 		}
 		victory_points = { #Bijeljina

@@ -1,0 +1,256 @@
+do_albanian_renames_in_europe = {
+	if = {
+		limit = {
+			state = 104
+		}
+		set_state_name = "Sarajevë"
+		set_province_name = {
+			id = 11899
+			name = "Sarajevë"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 105
+		}
+		set_state_name = "Mali i Zi"
+		set_province_name = {
+			id = 9821
+			name = "Cetina"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 106
+		}
+		set_state_name = "Maqedonia"
+		set_province_name = {
+			id = 3882
+			name = "Shkup"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1076
+		}
+		set_state_name = "Veria"
+		set_province_name = {
+			id = 966
+			name = "Veria"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1097
+		}
+		set_state_name = "Berane"
+		set_province_name = {
+			id = 6913
+			name = "Berane"
+		}
+		set_province_name = {
+			id = 9809
+			name = "Podgoricë"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1098
+		}
+		set_state_name = "Rush"
+		set_province_name = {
+			id = 6889
+			name = "Rush"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1141
+		}
+		set_state_name = "Semberija"
+		set_province_name = {
+			id = 11572
+			name = "Semberija"
+		}
+		set_province_name = {
+			id = 6799
+			name = "Tuzla"
+		}
+		set_province_name = {
+			id = 11574
+			name = "Brcko"
+		}
+		set_province_name = {
+			id = 606
+			name = "Bijeljina"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1142
+		}
+		set_state_name = "Peizazhi"
+		set_province_name = {
+			id = 6983
+			name = "Banja Luka"
+		}
+		set_province_name = {
+			id = 6619
+			name = "Prijedor"
+		}
+		set_province_name = {
+			id = 6614
+			name = "Cazin"
+		}
+		set_province_name = {
+			id = 9586
+			name = "Bihaq"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1143
+		}
+		set_state_name = "Tropoje"
+		set_province_name = {
+			id = 11872
+			name = "Ilixha"
+		}
+		set_province_name = {
+			id = 6957
+			name = "Livno"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1145
+		}
+		set_state_name = "Hercegovina"
+		set_province_name = {
+			id = 9894
+			name = "Mostari"
+		}
+		set_province_name = {
+			id = 11845
+			name = "Trebinje"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1297
+		}
+		set_state_name = "Neum"
+		set_province_name = {
+			id = 14706
+			name = "Neum"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1306
+		}
+		set_state_name = "Sanxhaku"
+		set_province_name = {
+			id = 14725
+			name = "Novi Pazar"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1307
+		}
+		set_state_name = "Kotorrit"
+		set_province_name = {
+			id = 14671
+			name = "Kotorrit"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 1308
+		}
+		set_state_name = "Korfuzi"
+		set_province_name = {
+			id = 10203
+			name = "Korfuzi"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 163
+		}
+		set_state_name = "Dalmaci"
+		set_province_name = {
+			id = 3924
+			name = "Ndarë"
+		}
+		set_province_name = {
+			id = 3943
+			name = "Shibenik"
+		}
+		set_province_name = {
+			id = 11816
+			name = "Sinj"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 185
+		}
+		set_state_name = "Çamëria"
+		set_province_name = {
+			id = 9916
+			name = "Arta"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 731
+		}
+		set_state_name = "Maqedonia Perëndimore"
+		set_province_name = {
+			id = 9837
+			name = "Follorinë"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 765
+		}
+		set_state_name = "Kosova"
+		set_province_name = {
+			id = 9874
+			name = "Prishtina"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 769
+		}
+		set_state_name = "Maqedonia Lindore"
+		set_province_name = {
+			id = 9930
+			name = "Kavala"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 968
+		}
+		set_state_name = "Pirin"
+		set_province_name = {
+			id = 6857
+			name = "Dzhumaya e Sipërme"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 989
+		}
+		set_state_name = "Selaniku"
+		set_province_name = {
+			id = 11818
+			name = "Selaniku"
+		}
+	}
+}

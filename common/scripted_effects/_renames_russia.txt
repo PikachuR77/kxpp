@@ -905,7 +905,6 @@ do_russian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 840
-			NOT = { has_state_flag = renamed_state_russian }
 		}
 		clr_state_flag = renamed_state_swedish
 		set_state_name = endo_state_840_russian

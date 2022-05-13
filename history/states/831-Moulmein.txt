@@ -12,6 +12,9 @@ state = {
 		victory_points = {
 			1403 1 #Mawlaymein/Morlamaeng-2
 		}
+		victory_points = {
+			12238 1 
+		}
 	}
 
 	provinces = {

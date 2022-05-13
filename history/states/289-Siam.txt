@@ -30,6 +30,9 @@ state = {
 		victory_points = {
 			12220 2 # Ao Manao, Prachuap Khiri Khan - 2
 		}
+		victory_points = {
+			4348 1 
+		}
 		add_core_of = SIA
 	}
 

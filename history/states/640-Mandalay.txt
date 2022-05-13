@@ -23,6 +23,9 @@ state = {
 		victory_points = {
 			10386 1 # Sagaing
 		}
+		victory_points = {
+			7034 1 
+		}
 	}
 
 	provinces = {

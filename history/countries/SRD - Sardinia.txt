@@ -353,3 +353,6 @@ create_navy_leader = {
 
 SRD_start_naval_variant = yes
 
+NFA = {
+	give_guarantee = SRD
+}
