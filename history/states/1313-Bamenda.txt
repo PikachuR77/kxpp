@@ -1,0 +1,19 @@
+state={
+	id=1313
+	name="STATE_1313"
+
+	history={
+		owner = MAF
+		add_core_of = MAF
+		add_core_of = CMR
+		add_core_of = NGR
+
+	}
+
+	provinces={
+		6039 13885 13888 13905 13926 13931 14471 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -2,10 +2,11 @@
 state={
 	id=877
 	name="STATE_877"
-	resources = {
-		rubber = 11
-		steel = 8
+	resources={
+		rubber=11.000
+		steel=8.000
 	}
+
 	history={
 		owner = CIV
 		add_core_of = CIV
@@ -20,9 +21,10 @@ state={
 	}
 
 	provinces={
-		1951 12785 12843 13861 13868 13869 13871 13872 13873 13874 13875 13876 
+		1951 12785 12843 13861 13869 13875 
 	}
 	manpower=1575000
 	buildings_max_level_factor=1.000
 	state_category=one
+	local_supplies=0.000
 }

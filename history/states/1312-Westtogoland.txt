@@ -1,0 +1,19 @@
+state={
+	id=1312
+	name="STATE_1312"
+
+	history={
+		owner = CIV
+		add_core_of = CIV
+		add_core_of = TOG
+		add_core_of = GHA
+
+	}
+
+	provinces={
+		13868 13871 13872 13873 13874 13876 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

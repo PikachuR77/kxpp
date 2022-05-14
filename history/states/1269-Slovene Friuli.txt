@@ -11,6 +11,9 @@ state={
 		victory_points = { #Udine
 			9613 1
 		}
+		victory_points = { #Gorizia
+			13582 1
+		}
 	}
 	
 	provinces={
