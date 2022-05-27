@@ -1,0 +1,17 @@
+
+state={
+	id=1339
+	name="STATE_1339"
+	
+	history={
+		owner = CHL
+
+	}
+	
+	provinces={
+		14807 14808 14809 14810 14811 14955 14958 14964 14985 15008 15009 15028 15039 15046 15049 15056 15079 15083 15145 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

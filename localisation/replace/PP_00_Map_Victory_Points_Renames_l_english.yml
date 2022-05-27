@@ -31,7 +31,7 @@
 #endo_vp_9930_albanian:0 "Kavala"
  endo_vp_10203_albanian:0 "Korfuzi"
 #endo_vp_11572_albanian:0 "Semberija"
-#endo_vp_11574_albanian:0 "Brčko"
+ endo_vp_11574_albanian:0 "Brcko"
 #endo_vp_11816_albanian:0 "Sinj"
  endo_vp_11816_albanian:0 "Selaniku"
 #endo_vp_11845_albanian:0 "Trebinje"
@@ -42,23 +42,18 @@
 #endo_vp_14725_albanian:0 "Novi Pazar"
 
 ### Arabic
- endo_vp_1086_arabic:0 "Al-Quds"
- endo_vp_1149_arabic:0 "Tarabulus"
- endo_vp_2089_arabic:0 "Al Basrah"
- endo_vp_2097_arabic:0 "Baghdad"
- endo_vp_4073_arabic:0 "As Suways"
- endo_vp_4111_arabic:0 "Dimashq"
- endo_vp_4206_arabic:0 "Yafa"
- endo_vp_5037_arabic:0 "Makkah"
+ endo_vp_4512_arabic:0 "Diyarbakir"
  endo_vp_6826_arabic:0 "As-Sulaymaniyah"
- endo_vp_8123_arabic:0 "Karkuk"
+ endo_vp_6935_arabic:0 "Van"
+ endo_vp_7604_arabic:0 "Arumia"
+ endo_vp_7982_arabic:0 "Bandar Abbas"
+ endo_vp_8117_arabic:0 "Shiraz"
  endo_vp_9893_arabic:0 "Aintab"
- endo_vp_10106_arabic:0 "Al Mawsil"
- endo_vp_10835_arabic:0 "Madinah"
- endo_vp_11954_arabic:0 "Banghazi"
- endo_vp_12473_arabic:0 "Halab"
- endo_vp_12883_arabic:0 "Jeddah"
-
+ endo_vp_10788_arabic:0 "Timbiktu"
+ endo_vp_11746_arabic:0 "Adna"
+ endo_vp_11984_arabic:0 "Nikusiya"
+ endo_vp_12773_arabic:0 "Karmanshah"
+timbiktu
 ### Armenian
  endo_vp_11753_armenian:0 "Rizaion"
  endo_vp_12320_armenian:0 "Yerevan"
@@ -361,7 +356,6 @@
 
 ### Greek 
  endo_vp_947_greek:0 "Proúsa"
- endo_vp_1007_greek:0 "Ródos"
  endo_vp_4112_greek:0 "Smýrna"
  endo_vp_9833_greek:0 "Konstantinoúpolis"
  endo_vp_9837_greek:0 "Flórina"
@@ -371,7 +365,6 @@
  endo_vp_11842_greek:0 "Adrianoúpolis"
  endo_vp_11881_greek:0 "Sampsúnta"
  endo_vp_11905_greek:0 "Neápolis"
- endo_vp_11984_greek:0 "Lefkosía"
 
 ### Hawaiian
  endo_vp_13052_hawaiian:0 "Pihemanu Kauihelani"
@@ -704,6 +697,12 @@
  endo_vp_9873_mongolian:0 "Khaluungol"
  endo_vp_10397_mongolian:0 "Kalgan"
  endo_vp_10424_mongolian:0 "Hohhot"
+ 
+### Perisan
+ endo_vp_1896_persian:0 "Tabriz"
+ endo_vp_7604_persian:0 "Oromiyeh"
+ endo_vp_7953_persian:0 "Ahvāz"
+ endo_vp_12773_persian:0 "Kermānshāh"
 
 ### Polish
  endo_vp_233_polish:0 "Brasław"
@@ -1035,6 +1034,25 @@
  endo_vp_9833_turkish:0 "Istanbul"
  endo_vp_9992_turkish:0 "Derne"
  endo_vp_11905_turkish:0 "Dedeağaç"
+# Arabic
+ endo_vp_1086_turkish:0 "Kudüs"
+ endo_vp_1149_turkish:0 "Trablus"
+ endo_vp_2089_turkish:0 "Basra"
+ endo_vp_2097_turkish:0 "Bagdat"
+ endo_vp_4073_turkish:0 "Süveys"
+ endo_vp_4111_turkish:0 "Sam"
+ endo_vp_4206_turkish:0 "Tel Aviv"
+ endo_vp_5037_turkish:0 "Mekke"
+ endo_vp_6826_turkish:0 "Süleymaniye"
+ endo_vp_8123_turkish:0 "Kerkük"
+ endo_vp_10106_turkish:0 "Musul"
+ endo_vp_10835_turkish:0 "Medine"
+ endo_vp_11954_turkish:0 "Bingazi"
+ endo_vp_12473_turkish:0 "Halep"
+ endo_vp_12883_turkish:0 "Cidde"
+# Greek
+ endo_vp_10007_turkish:0 "Rodos"
+ endo_vp_11984_turkish:0 "Lefkosa"
 
 ### Uighur
  endo_vp_1143_uighur:0 "Turpan"

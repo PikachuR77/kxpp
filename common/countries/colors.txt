@@ -308,8 +308,8 @@ CVG = {
 	color_ui = rgb { 5 216 168 }
 }
 CYP = {
-	color = rgb { 100 190 230 }
-	color_ui = rgb { 115 225 240 }
+	color = rgb { 112 41 99 }
+	color_ui = rgb { 99 84 134 }
 }
 CZE = {
     color = rgb { 161 139 40 }

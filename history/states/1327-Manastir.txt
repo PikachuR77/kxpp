@@ -1,0 +1,22 @@
+state={
+	id=1327
+	name="STATE_1327"
+
+	history={
+		owner = BUL
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = BUL
+		add_claim_by = SER
+
+	}
+	
+	provinces={
+		974 3833 6886 11856 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

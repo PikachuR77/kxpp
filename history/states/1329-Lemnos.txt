@@ -1,0 +1,26 @@
+state={
+	id=1329
+	name="STATE_1329"
+
+	history={
+		owner = OTT
+		buildings = {
+			infrastructure = 2
+			14762 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = OTT
+		add_core_of = GRE
+
+	}
+	
+	provinces={
+		14762 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

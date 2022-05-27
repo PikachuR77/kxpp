@@ -1,0 +1,21 @@
+state={
+	id=1336
+	name="STATE_1336"
+
+	history={
+		owner = OTT
+		add_core_of = KUR
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = OTT
+
+	}
+	provinces={
+		864 1463 10497 11880 12318 12476 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

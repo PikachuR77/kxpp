@@ -11,7 +11,7 @@ scripted_gui = {
 
 		effects = {
 			toggle_renaming_button_click = {
-				do_all_renames_yes
+				do_all_renames = yes
 			}
 		}
 

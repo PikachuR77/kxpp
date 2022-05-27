@@ -28,8 +28,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 2049;10788;;-1;-1;-1;-1;-1;TRANSSAHARIAN_ROUTE;Transsaharian
 4903;5101;;-1;-1;-1;-1;-1;TRANSSAHARIAN_ROUTE;Transsaharian
 5035;5101;;-1;2871;1159;2807;938;TRANSSAHARIAN_ROUTE;Transsaharian
+7958;10788;;-1;2776;1178;2757;943;TRANSSAHARIAN_ROUTE;Transsaharian
 8061;5101;;-1;2924;1147;2832;918;TRANSSAHARIAN_ROUTE;Transsaharian
-12711;10788;;-1;2810;1127;2769;944;TRANSSAHARIAN_ROUTE;Transsaharian
+12842;10788;;-1;2817;1168;2769;944;TRANSSAHARIAN_ROUTE;Transsaharian
 
 #### Naval Crossings
 
@@ -46,6 +47,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 394;6235;sea;2455;-1;-1;-1;-1;;Jutland-Norrejyske
 480;9431;sea;8621;-1;-1;-1;-1;;Netherlands outlier
 849;9887;sea;7678;-1;-1;-1;-1;;Dardanelles
+849;14762;sea;7678;-1;-1;-1;-1;;Dardanelles
 1042;1269;sea;6819;-1;-1;-1;-1;;San Cristobal-Guadalcanal
 1085;1269;sea;5868;-1;-1;-1;-1;;Malaita-Guadalcanal
 1106;12001;sea;5913;-1;-1;-1;-1;;Lefkada-Epirus
@@ -110,6 +112,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7654;4273;sea;2239;-1;-1;-1;-1;;Java-Bali
 7683;13613;sea;8642;-1;-1;-1;-1;;Canada
 8435;6550;sea;7452;-1;-1;-1;-1;;Aegan Isle-Strait
+8435;14761;sea;7452;-1;-1;-1;-1;;Aegan Isle-Strait
 8435;6864;sea;7452;-1;-1;-1;-1;;Lesbos-Turkey
 9377;4450;sea;2887;-1;-1;-1;-1;;Guadeloupe-Montserrat
 9498;9431;sea;8621;-1;-1;-1;-1;;Netherlands inlier
@@ -228,10 +231,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 
 3657;671;impassable;-1;-1;-1;-1;-1;;Alps
 3657;11615;impassable;-1;-1;-1;-1;-1;;Alps
-3657;14703;impassable;-1;-1;-1;-1;-1;;Alps
-9613;14703;impassable;-1;-1;-1;-1;-1;;Alps
-9613;14704;impassable;-1;-1;-1;-1;-1;;Alps
-9613;11612;impassable;-1;-1;-1;-1;-1;;Alps
+14751;671;impassable;-1;-1;-1;-1;-1;;Alps
+14752;11612;impassable;-1;-1;-1;-1;-1;;Alps
+14752;14703;impassable;-1;-1;-1;-1;-1;;Alps
+14752;14704;impassable;-1;-1;-1;-1;-1;;Alps
 
 # Fengtian-Mongolia
 

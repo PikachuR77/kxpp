@@ -15,6 +15,7 @@ state={
 				naval_base = 1
 
 			}
+
 		}
 		add_core_of = OTT
 		add_core_of = GRE
@@ -22,8 +23,10 @@ state={
 	}
 
 	provinces={
-		6550 8435
+		6550 8435 
 	}
 	manpower=322600
+	buildings_max_level_factor=1.000
 	state_category=one_island
+	local_supplies=0.000
 }

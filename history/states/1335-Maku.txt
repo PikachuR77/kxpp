@@ -1,0 +1,20 @@
+state={
+	id=1335
+	name="STATE_1335"
+	history={
+		owner = PER
+		add_core_of = KUR
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = PER
+
+	}
+	provinces={
+		1636 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

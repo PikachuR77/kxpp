@@ -1,11 +1,12 @@
-state = {
-	id = 339
-	name = "STATE_339"
 
-	history = {
+state={
+	id=339
+	name="STATE_339"
+
+	history={
 		owner = OTT
 		victory_points = {
-			4112 15
+			4112 15 
 		}
 		buildings = {
 			infrastructure = 2
@@ -15,14 +16,19 @@ state = {
 				naval_base = 4
 				coastal_bunker = 1
 				bunker = 1
+
 			}
+
 		}
 		add_core_of = OTT
+
 	}
 
-	provinces = {
-		928 3927 4112 6992 7130 9921 9929 10038 11848
+	provinces={
+		928 3927 4112 6992 7130 9921 9929 10038 11848 14755 14756 14761 
 	}
-	manpower = 1279893
-	state_category = six
+	manpower=1279893
+	buildings_max_level_factor=1.000
+	state_category=six
+	local_supplies=0.000
 }

@@ -1,0 +1,20 @@
+state={
+	id=1315
+	name="STATE_1315"
+	history = {
+		owner = NFA
+		add_core_of = NFA
+		add_core_of = WAD
+		buildings = {
+			infrastructure = 1
+
+		}
+		
+	}
+	provinces={
+		14739 
+	}
+	manpower=0
+	impassable = yes
+	state_category=wasteland
+}

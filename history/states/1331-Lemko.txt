@@ -1,0 +1,24 @@
+state={
+	id=1331
+	name="STATE_1331"
+
+	history={
+		owner = GAL
+		victory_points = {
+			417 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = GAL
+
+	}
+	provinces={
+		417 466 3410 14765 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

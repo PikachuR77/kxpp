@@ -13,9 +13,6 @@ state={
 		add_claim_by = ITA
 		add_claim_by = SRI
 		victory_points = {
-			9613 2 
-		}
-		victory_points = {
 			6656 1 
 		}
 		buildings = {
@@ -27,7 +24,7 @@ state={
 	}
 
 	provinces={
-		628 3657 6656 
+		628 3657 6656
 	}
 	manpower=938000
 	buildings_max_level_factor=1.000

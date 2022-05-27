@@ -7,14 +7,14 @@ state={
 		owner = CRO
 		add_core_of = CRO
 		add_claim_by = FIU
-
 		victory_points = {
 			11564 1 
 		}
+
 	}
 
 	provinces={
-		11564 13826 
+		13826 
 	}
 	manpower=63000
 	buildings_max_level_factor=1.000

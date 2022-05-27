@@ -552,7 +552,7 @@ adjacency_rule =
 		trade = yes
 	}
 
-	required_provinces = { 8061 4903 5035 2049 12842 5101 10788 }
+	required_provinces = { 7958 8061 4903 5035 2049 12842 5101 10788 }
 
 	is_disabled = {
 		tooltip = disable_transsaharian_tt

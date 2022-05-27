@@ -14,9 +14,10 @@ state={
 	}
 
 	provinces={
-		2976 3691 4272 10527 10721 13192 
+		3691 4272 10527 10721 15392 15393 15394 15395 15396 15399 15400 15403 15406 15407 15411 15417 15426 
 	}
 	manpower=10700
-	impassable = yes
+	buildings_max_level_factor=1.000
 	state_category=wasteland
+	local_supplies=0.000
 }

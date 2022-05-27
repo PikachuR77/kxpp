@@ -1,0 +1,20 @@
+state={
+	id=1334
+	name="STATE_1334"
+
+	history={
+		owner = ROM
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = ROM
+
+	}
+	provinces={
+		6584 11534 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

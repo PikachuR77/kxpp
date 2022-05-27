@@ -8,8 +8,8 @@ state={
 		add_claim_by = ITA
 		add_claim_by = SRI
 		
-		victory_points = { #Udine
-			9613 1
+		victory_points = { # Udine
+			9613 2 
 		}
 		victory_points = { #Gorizia
 			13582 1

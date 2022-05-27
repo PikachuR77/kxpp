@@ -25,7 +25,8 @@ state = {
 			industrial_complex = 1
 			arms_factory = 1
 		} 
-		add_core_by = ITA
+		add_core_of = ITA
+		add_claim_of = SRI
 		set_demilitarized_zone = yes
 	}
 

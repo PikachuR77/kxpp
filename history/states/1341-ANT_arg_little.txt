@@ -1,0 +1,16 @@
+state={
+	id=1341
+	name="STATE_1341"
+	
+	history={
+		owner = ARG
+
+	}
+	
+	provinces={
+		15350 15357 15359 15360 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

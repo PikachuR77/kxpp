@@ -1,32 +1,37 @@
-state = {
-	id = 227
-	name = "STATE_227"
-	manpower = 3144069
 
-	state_category = six
-	resources = {
-		steel = 20
+state={
+	id=227
+	name="STATE_227"
+	resources={
+		steel=20.000
 	}
-	history = {
+
+	history={
 		owner = UKR
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 2
+
 		}
 		victory_points = {
-			523 1
+			523 1 
 		}
 		victory_points = {
-			6474 10
+			6474 10 
 		}
 		victory_points = {
-			9461 5
+			9461 5 
 		}
-        add_core_of = UKR
+		add_core_of = UKR
+
 	}
 
-	provinces = {
-		523 547 6519 11513 3466 3479 6474 6505 9461 
+	provinces={
+		502 3449 3466 3479 3491 6474 6505 
 	}
+	manpower=3144069
+	buildings_max_level_factor=1.000
+	state_category=six
+	local_supplies=0.000
 }

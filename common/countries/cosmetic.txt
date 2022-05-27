@@ -2442,3 +2442,34 @@ LOM_LMV = {
 	color = rgb { 150 150 50 }
 	color_ui = rgb { 150 150 50 }
 }
+
+MAC = {
+	color = rgb { 139 0 0 }
+	color_ui = rgb { 149 0 0 }
+}
+
+RUM = {
+	color = rgb { 185 17 1 }
+	color_ui = rgb { 185 17 1 }
+}
+
+SYR_OTT = {
+	color = rgb { 140 0 0 }
+	color_ui = rgb { 140 0 0 }
+}
+LEB_OTT = {
+	color = rgb { 140 0 0 }
+	color_ui = rgb { 140 0 0 }
+}
+IRQ_OTT = {
+	color = rgb { 140 0 0 }
+	color_ui = rgb { 140 0 0 }
+}
+HEJ_OTT = {
+	color = rgb { 140 0 0 }
+	color_ui = rgb { 140 0 0 }
+}
+TRP_OTT = {
+	color = rgb { 140 0 0 }
+	color_ui = rgb { 140 0 0 }
+}

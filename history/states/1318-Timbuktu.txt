@@ -1,0 +1,26 @@
+state={
+	id=1318
+	name="STATE_1318"
+	history={
+		owner = NFA
+		add_core_of = NFA
+		add_core_of = MAL
+		victory_points = {
+			10788 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		start_resistance = yes
+		set_resistance = 56
+		set_compliance = 2
+
+	}
+	provinces={
+		2044 10788 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

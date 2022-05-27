@@ -4,7 +4,7 @@ state={
 	name="STATE_998"
 
 	history={
-		owner = ARM
+		owner = AZE
 		add_core_of = AZE
 		add_core_of = ARM
 		victory_points = {

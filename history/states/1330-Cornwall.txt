@@ -1,0 +1,29 @@
+state={
+	id=1330
+	name="STATE_1330"
+
+	history={
+		owner = ENG
+		victory_points = {
+			6526 1 
+		}
+		buildings = {
+			infrastructure = 2
+			6526 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = ENG
+		add_claim_by = CAN
+
+	}
+
+	provinces={
+		6526 14763 14764
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
