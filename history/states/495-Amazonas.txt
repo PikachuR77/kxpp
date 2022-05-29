@@ -1,26 +1,30 @@
-state = {
-	id = 495
-	name = "STATE_495"
-	resources = {
-		aluminium = 4
+
+state={
+	id=495
+	name="STATE_495"
+	resources={
+		aluminium=4.000
 	}
 
-	history = {
+	history={
 		owner = BRA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
+
 		}
 		add_core_of = BRA
-
 		victory_points = {
-			10934 10
+			10934 10 
 		}
+
 	}
 
-	provinces = {
-		1979 10934 12919 13083 13319 13325 13329 13330 13338 13339 13340 13341 13351 13353 13355 13358 13359 13363 13366 13525 13527 13535
+	provinces={
+		1979 10934 12919 13083 13319 13325 13329 13330 13338 13339 13340 13341 13351 13355 13358 13359 13366 13525 13527 13535 15426 15428 15429 15431 15433 15435 15436 15438 15442 15443 15444 15445 15446 15447 15448 15449 15450 15451 15452 15453 15454 15455 15456 15457 15458 15459 15460 15461 15462 15463 15464 15465 15466 
 	}
-	manpower = 408400
-	state_category = one
+	manpower=408400
+	buildings_max_level_factor=1.000
+	state_category=one
+	local_supplies=0.000
 }

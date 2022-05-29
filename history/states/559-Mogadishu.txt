@@ -1,17 +1,17 @@
-state = {
-	id = 559
-	name = "STATE_559"
-	manpower = 854895
 
-	state_category = four
+state={
+	id=559
+	name="STATE_559"
 
-	history = {
+	history={
 		owner = SOM
 		add_core_of = SOM
 		victory_points = {
-			10921 1 } #Warsangali
+			10921 1 
+		}
 		victory_points = {
-			10928 5 } #Mogadishu
+			10928 5 
+		}
 		buildings = {
 			infrastructure = 2
 			air_base = 1
@@ -19,13 +19,22 @@ state = {
 			arms_factory = 1
 			10921 = {
 				naval_base = 1
+
 			}
 			12991 = {
 				naval_base = 2
+
 			}
+
 		}
+
 	}
-	provinces = {
-		1964 1966 2020 2063 4909 5065 8164 10818 10891 10921 10928 12814 12840 12991
+
+	provinces={
+		1964 1966 2020 2063 4909 5065 8164 10818 10891 10928 12840 12991 
 	}
+	manpower=854895
+	buildings_max_level_factor=1.000
+	state_category=four
+	local_supplies=0.000
 }

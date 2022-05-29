@@ -1,21 +1,26 @@
-state = {
-	id = 851
-	name = "STATE_851"
 
-	history = {
+state={
+	id=851
+	name="STATE_851"
+
+	history={
 		owner = COL
 		buildings = {
 			infrastructure = 1
+
 		}
 		add_core_of = COL
 		victory_points = {
-			13391 2
+			13391 2 
 		}
+
 	}
 
-	provinces = {
-		10792 12729 13389 13391 13393 13396 13401 13402
+	provinces={
+		2007 10792 12729 12770 13383 13384 13389 13391 13393 13396 13401 13402 
 	}
-	manpower = 116210
-	state_category = wasteland
+	manpower=116210
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
 }

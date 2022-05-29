@@ -1,14 +1,15 @@
+
 state={
 	id=1349
 	name="STATE_1349"
-	
+
 	history={
 		owner = SAF
 
 	}
-	
+
 	provinces={
-		15378 
+		15422 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -1,19 +1,20 @@
+
 state={
 	id=1277
 	name="STATE_1277"
-	
-	history = {
+
+	history={
 		owner = BRA
 		add_core_of = BRA
 		buildings = {
 			infrastructure = 1
 
 		}
-		
+
 	}
-	
+
 	provinces={
-		13304 
+		15424 
 	}
 	manpower=393
 	impassable = yes

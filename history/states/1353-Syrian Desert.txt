@@ -1,0 +1,21 @@
+state={
+	id=1353
+	name="STATE_1353"
+
+	history = {
+		owner = JBS
+		add_core_of = JBS
+		add_claim_by = SAU
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	impassable = yes
+
+	provinces={
+		4440 
+	}
+	manpower=0
+	state_category = wasteland
+}

@@ -1,14 +1,15 @@
+
 state={
 	id=1347
 	name="STATE_1347"
-	
+
 	history={
 		owner = NOR
 
 	}
-	
+
 	provinces={
-		15210 
+		15244 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

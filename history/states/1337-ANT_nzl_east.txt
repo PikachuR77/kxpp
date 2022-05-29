@@ -1,14 +1,15 @@
+
 state={
 	id=1337
 	name="STATE_1337"
-	
+
 	history={
 		owner = AST
 
 	}
-	
+
 	provinces={
-		14780 14781 
+		14781 14782 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

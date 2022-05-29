@@ -1,0 +1,22 @@
+state={
+	id=1355
+	name="STATE_1355"
+
+	history={
+		owner = OTT
+		add_core_of = OTT
+		add_core_of = SYR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	
+	provinces={
+		5099 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
